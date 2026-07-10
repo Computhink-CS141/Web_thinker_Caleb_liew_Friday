@@ -8,8 +8,7 @@ function setup() {
 
 function draw() {
   // Challenge 1: An eye using ellipse() function
-fill("black")
-  ellipse(300,200,50,50)
+  ellipse(300,200,150,50)
 fill("white")
 ellipse(300,200,30,50)
 ellipse(300,200,30,15)
