@@ -23,7 +23,6 @@ function draw() {
   // Challenge 3: A house using rect() function
 fill("white")
   rect(320,125,200,200)
-fill("black")
 rect(400,200,100,100)
   // Challenge 4: A rocketship using triangle() function
 
