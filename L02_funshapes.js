@@ -14,12 +14,12 @@ ellipse(300,200,30,50)
 fill("white")
 ellipse(300,200,30,15)
   // Challenge 2: A face using circle() function
-circle(300,300,90)
-circle(280,280,15)
-circle(320,280,15)
-circle(260,255,30)
-circle(340,255,30)
-ellipse(300,310,35,17)
+// circle(300,300,90)
+// circle(280,280,15)
+// circle(320,280,15)
+// circle(260,255,30)
+// circle(340,255,30)
+// ellipse(300,310,35,17)
   // Challenge 3: A house using rect() function
 
 
