@@ -10,7 +10,7 @@ function draw() {
   // Challenge 1: An eye using ellipse() function
 Fill("black")
   ellipse(300,200,50,50)
-
+Fill("white")
 // ellipse(300,200,30,50)
 // ellipse(300,200,30,15)
   // Challenge 2: A face using circle() function
