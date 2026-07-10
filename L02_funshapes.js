@@ -25,6 +25,7 @@ function draw() {
 // rect(400,150,100,100)
   // Challenge 4: A rocketship using triangle() function
 
+
   // Challenge 5: A square face using quad() function
 
   // Challenge 6: Add some colours to the drawings in the above challenges
