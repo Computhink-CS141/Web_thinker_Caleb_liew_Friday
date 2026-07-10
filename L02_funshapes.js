@@ -22,7 +22,7 @@ function draw() {
 // ellipse(300,310,35,17)
   // Challenge 3: A house using rect() function
 fill("white")
-  rect(300,200,200,200)
+  rect(300,100,200,200)
 fill("black")
 rect(400,200,50,50)
   // Challenge 4: A rocketship using triangle() function
