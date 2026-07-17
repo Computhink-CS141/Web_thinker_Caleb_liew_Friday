@@ -11,7 +11,7 @@ let diameter = 50;
 let circley = 1
 for(let count = 1 ; count<6 ; count++){
   circle(count*50,circley,100)
-  circley = circley +1
+  circley = circley +50
 }
 // circle(225,200,100)
 // circle(375,200,100)
