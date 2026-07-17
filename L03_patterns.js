@@ -7,7 +7,7 @@ function setup() {
 function draw() {
   // Recap 1: Repeating Circles
 let diameter = 50;
-let circley = 50;
+
 
 for(let count = 1 ; count<6; count++){
   circle(75,200,100)
