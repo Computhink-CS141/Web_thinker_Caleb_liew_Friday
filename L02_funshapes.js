@@ -41,7 +41,7 @@ function draw() {
   // Challenge 6: Add some colours to the drawings in the above challenges
 
   // Challenge 7: Create a funny Pokemon
-nostroke("");
+noStroke();
 circle(400,400,200)
 ellipse(400,470,150,75)
 rect(200,200,150,150,6,500,4,500)
