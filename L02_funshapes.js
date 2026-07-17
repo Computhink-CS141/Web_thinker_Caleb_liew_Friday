@@ -30,6 +30,7 @@ fill("red")
 ellipse(400,360,50,100)
 fill("yellow")
 rect(360,400,75,15)
+fill("")
 circle(400,350,20)
 triangle(380,330,420,330,400,290)
 
