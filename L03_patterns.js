@@ -24,7 +24,7 @@ function draw() {
 
   // let circley = 1
 for(let red = 0 ; red<256 ; count+10){
-  fill(red,0,0)
+  fill(red,0,0);
   circle(count*50,circley,15)
   circley = circley +50
 
