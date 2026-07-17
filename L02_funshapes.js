@@ -29,7 +29,7 @@ function draw() {
 ellipse(400,360,50,100)
 rect(360,400,75,30)
 circle(400,350,20)
-triangle(370,340,420,340,395,300)
+triangle(370,350,420,350,395,300)
 
 
   // Challenge 5: A square face using quad() function
