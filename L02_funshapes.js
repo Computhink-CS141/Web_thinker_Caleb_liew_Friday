@@ -26,8 +26,8 @@ function draw() {
   // Challenge 4: A rocketship using triangle() function
 // triangle(250,200,350,200,300,400)
 // triangle(34,57,23,90,45,79)
-rect(3,400,75,30)
-ellipse(400,360,50,100)
+rect(375,400,75,30)
+
 
 
 
