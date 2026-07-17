@@ -42,7 +42,7 @@ function draw() {
 
   // Challenge 7: Create a funny Pokemon
 circle(400,400,200)
-ellipse(400,470,150,100)
+ellipse(400,470,150,75)
 
 
 }
