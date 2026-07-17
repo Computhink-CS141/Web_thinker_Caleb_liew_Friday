@@ -6,19 +6,31 @@ function setup() {
   
 function draw() {
   // Recap 1: Repeating Circles
-let diameter = 50;
+// let diameter = 50;
 
-let circley = 1
-for(let count = 1 ; count<6 ; count++){
-  circle(count*50,circley,15)
-  circley = circley +50
-}
+// let circley = 1
+// for(let count = 1 ; count<6 ; count++){
+  // circle(count*50,circley,15)
+  // circley = circley +50
+// }
 // circle(225,200,100)
 // circle(375,200,100)
 // circle(525,200,100)
 
   // Task 1: Colour Gradient
 
+
+
+
+  // let circley = 1
+for(let red = 0 ; red<256 ; count+10){
+  circle(count*50,circley,15)
+  circley = circley +50
+
+
+
+
+}
   // Task 2: Colour Loop
 
   // Task 3: Row of Circles
