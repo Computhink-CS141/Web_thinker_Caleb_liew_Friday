@@ -25,7 +25,7 @@ fill(shapeColor)
 circle(300,300,300)
 }
 
-function mouseReleased(){
+function mousePressed(){
     shapeColor= color(random(0,255),random(0,255),random(0,255))
 
 }
