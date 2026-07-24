@@ -5,7 +5,7 @@ function setup() {
     noloop();
 }
 
-draw();{
+function draw(){
 print(width)
 print(height)
 
