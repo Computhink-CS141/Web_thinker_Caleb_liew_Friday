@@ -44,7 +44,7 @@ circle(width/2,300,300)
 let size =255;
 function mousePressed(){
     shapeColor= color(random(0,255),random(0,255),random(0,255))
-    size -= 1
+    size -= 5
     circle(mouseX,mouseY,size)
 }
 
