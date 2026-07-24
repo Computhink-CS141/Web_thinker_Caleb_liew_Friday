@@ -4,7 +4,7 @@ function setup() {
     background(220);
     // noLoop();
 }
-let shapeColorcolor="red";
+let shapeColor="red";
 
 function draw(){
 // // print(width)
