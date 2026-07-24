@@ -16,7 +16,7 @@ for(let counter = 0 ;counter < 10 ; counter += 1 ){
     green += 25;
     x += 50;
     y += 50;
-    fill(0,green,green);
+    fill(green,green,green);
     circle(x,y,50);
 }
 
