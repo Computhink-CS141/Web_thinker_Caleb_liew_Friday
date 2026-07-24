@@ -2,11 +2,11 @@
 function setup() {
     createCanvas(600,600);
     background(220);
-    // noLoop();
+    noLoop();
 }
 
 function draw(){
-print(width)
+// print(width)
 // print(height)
 let green=0;
 let x=0;
