@@ -16,8 +16,8 @@ for(let counter = 0 ;counter < 5 ; counter =+ 1 ){
     let green =+ 1;
     let x =+ 50;
     let y =+ 50;
-    fill(0,0,green)
-
+    fill(0,green,0);
+    
 }
 
 
