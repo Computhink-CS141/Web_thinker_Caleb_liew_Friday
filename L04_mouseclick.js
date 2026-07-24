@@ -23,7 +23,7 @@ function draw(){
 // ---------------------------------------------------------
 fill(shapeColor)
     noStroke();
-circle(5,300,300)
+circle(width/2,300,300)
 
 }
 
