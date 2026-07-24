@@ -7,7 +7,7 @@ function setup() {
 
 draw();{
 print(width)
-pro
+print(height)
 
 }
 
