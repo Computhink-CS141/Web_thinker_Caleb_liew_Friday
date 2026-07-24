@@ -33,7 +33,7 @@ function mousePressed(){
 }
 
 function mouseReleased(){
-    shapeColor= color(255)
+    // shapeColor= color(255)
 
 }
 
