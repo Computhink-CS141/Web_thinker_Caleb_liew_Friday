@@ -9,8 +9,8 @@ function draw(){
 // print(width)
 // print(height)
 let green=0;
-let x=250;
-let y=250;
+let x=300;
+let y=300;
 
 for(let counter = 0 ;counter < 5 ; counter += 1 ){
     green += 50;
