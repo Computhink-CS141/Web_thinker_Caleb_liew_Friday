@@ -4,6 +4,7 @@ function setup() {
     background(220);
     // noLoop();
 }
+color
 
 function draw(){
 // // print(width)
