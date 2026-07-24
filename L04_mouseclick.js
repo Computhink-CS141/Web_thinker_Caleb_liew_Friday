@@ -14,7 +14,7 @@ let y;
 
 for(let counter = 0 ;counter < 5 ; counter =+ 1 ){
     let green =+ 1;
-
+    let x =+ 50
 
 }
 
