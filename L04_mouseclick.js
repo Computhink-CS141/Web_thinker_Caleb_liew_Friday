@@ -6,8 +6,8 @@ function setup() {
 }
 
 draw();{
-print()
-
+print(width)
+pro
 
 }
 
