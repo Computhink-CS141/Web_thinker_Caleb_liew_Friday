@@ -6,7 +6,7 @@ function setup() {
 }
 
 draw();{
-.
+print()
 
 
 }
