@@ -9,6 +9,9 @@ function draw(){
 print(width)
 print(height)
 
+
+
+
 }
 
 
