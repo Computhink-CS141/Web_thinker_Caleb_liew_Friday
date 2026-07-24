@@ -6,8 +6,8 @@ function setup() {
 }
 
 function draw(){
-print(width)
-print(height)
+// print(width)
+// print(height)
 let green;
 let x;
 let y;
