@@ -32,6 +32,7 @@ for(let red = 0 ; red<1000 ; red+=10){
 
 
 
+
 }
   // Task 2: Colour Loop
 
