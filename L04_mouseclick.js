@@ -5,6 +5,8 @@ function setup() {
     noloop();
 }
 
-dra()
+draw();{
+
+}
 
 
