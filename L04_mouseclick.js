@@ -8,9 +8,9 @@ function setup() {
 function draw(){
 // print(width)
 // print(height)
-let green;
-let x;
-let y;
+let green=0;
+let x=0;
+let y=0;
 
 for(let counter = 0 ;counter < 5 ; counter += 1 ){
     green += 50;
