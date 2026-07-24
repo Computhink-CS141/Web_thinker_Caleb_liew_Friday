@@ -43,7 +43,7 @@ circle(width/2,300,300)
 // }
 let size =0;
 function mouseDragged(){
-    // shapeColor= color(random(0,255),random(0,255),random(0,255))
+    shapeColor= color(random(0,255),random(0,255),random(0,255))
     size = random(1,255)
     circle(mouseX,mouseY,size)
 }
