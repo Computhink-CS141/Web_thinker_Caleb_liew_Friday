@@ -12,7 +12,7 @@ let green;
 let x;
 let y;
 
-for(let counter = 0 ;counter < 5 ; counter =+ 1 ){
+for(let counter = 0 ;counter < 5 ; counter += 1 ){
     let green =+ 50;
     let x =+ 50;
     let y =+ 50;
