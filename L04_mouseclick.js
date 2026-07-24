@@ -42,8 +42,8 @@ circle(width/2,300,300)
     // circle(mouseX,mouseY,50)
 // }
 
-function mouseMoved(){
+function mouseDragged(){
     shapeColor= color(random(0,255),random(0,255),random(0,255))
-    circle(mouseX,mouseY,1000)
+    circle(mouseX,mouseY,50)
 }
 
