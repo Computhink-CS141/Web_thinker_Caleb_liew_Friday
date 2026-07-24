@@ -21,7 +21,7 @@ function draw(){
 //     circle(x,y,50);
 // }
 // ---------------------------------------------------------
-fill(shapecolor)
+fill(shapeColor)
 circle(300,300,300)
 }
 
