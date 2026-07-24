@@ -8,7 +8,7 @@ function setup() {
 function draw(){
 // print(width)
 // print(height)
-let green;
+let green ;
 let x;
 let y;
 
