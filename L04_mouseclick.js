@@ -37,10 +37,10 @@ circle(width/2,300,300)
 //     shapeColor= color(random(0,255),random(0,255),random(0,255))
 // }
 
-function mouseMoved(){
-    shapeColor= color(random(0,255),random(0,255),random(0,255))
-    circle(mouseX,mouseY,1000)
-}
+// function mouseMoved(){
+    // shapeColor= color(random(0,255),random(0,255),random(0,255))
+    // circle(mouseX,mouseY,50)
+// }
 
 function mouseMoved(){
     shapeColor= color(random(0,255),random(0,255),random(0,255))
