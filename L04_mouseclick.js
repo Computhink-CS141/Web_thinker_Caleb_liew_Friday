@@ -10,7 +10,9 @@ print(width)
 print(height)
 let green;
 let x;
-let y
+let y;
+
+for(let counter = 0 ;counter < 5 ; counter =+ 1 ){}
 
 
 
