@@ -1,7 +1,7 @@
 // write your codes here
 function setup() {
     createCanvas(600,600);
-    background(255);
+    background(220);
     // noLoop();
 }
 let shapeColor="red";
