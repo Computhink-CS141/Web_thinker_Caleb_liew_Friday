@@ -10,7 +10,7 @@ function draw(){
 // print(height)
 let green=0;
 let x=300;
-let y=300;
+let y=0;
 
 for(let counter = 0 ;counter < 5 ; counter += 1 ){
     green += 50;
