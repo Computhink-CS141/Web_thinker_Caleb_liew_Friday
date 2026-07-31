@@ -5,14 +5,13 @@ background("grey");
 
 function draw(){
 
+}
 
-
+function mouseDragged(){
 
 
 
 }
-
-
 
 
 
