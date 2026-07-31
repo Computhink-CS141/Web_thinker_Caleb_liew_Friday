@@ -7,13 +7,13 @@ noStroke();
 function draw(){
 }
 
-function mouseDragged(){
+// function mouseDragged(){
 // circle(mouseX,mouseY,size)
 // size = size+100
-}
+// }
 
-function mousePressed(){
+// function mousePressed(){
 // size = 5;
 // fill(random(1,255),random(1,255),random(1,255))
-}
+// }
 
