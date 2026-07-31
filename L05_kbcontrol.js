@@ -41,7 +41,7 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
-if (keyCode === "40"){
+if (keyCode === DOWN){
     color = "red";
 }
 if (keyCode=== UP_ARROW){
