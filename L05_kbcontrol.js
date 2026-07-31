@@ -2,7 +2,7 @@ function setup(){
 createCanvas(600,600);
 background("grey");
 }
-let size = 0
+let size = 5
 function draw(){
 
 }
@@ -13,7 +13,7 @@ size = size+0.5
 }
 
 function mousePressed(){
-size = size +0.5;
+size = 5;
 
 
 }
