@@ -26,7 +26,9 @@ background("skyblue");
 // fill(color)
 // circle(width/2,height/2,100);
 
-if(keyIsDown(RIGHT_ARROW))
+if(keyIsDown(RIGHT_ARROW)){
+    
+}
 
 
 
