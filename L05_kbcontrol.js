@@ -23,8 +23,7 @@ circle(width/2,height/2,50,50);
 function keyPressed(){
     // rectsize = 200;
     if (key ==='c'){
-        showCircle =!
-
+        showCircle =!showCircle
     }
 }
 // function keyReleased(){
