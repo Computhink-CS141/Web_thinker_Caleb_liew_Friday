@@ -3,13 +3,13 @@ createCanvas(600,600);
 background("grey");
 noStroke();
 }
-let size = 5
+// let size = 5
 function draw(){
 }
 
 function mouseDragged(){
-circle(mouseX,mouseY,size)
-size = size+100
+// circle(mouseX,mouseY,size)
+// size = size+100
 }
 
 function mousePressed(){
