@@ -8,10 +8,7 @@ function draw(){
 }
 
 function mouseDragged(){
-
-
-
 }
 
-
+function mousePressed(){}
 
