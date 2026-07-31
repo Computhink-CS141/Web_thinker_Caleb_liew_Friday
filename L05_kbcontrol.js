@@ -8,7 +8,9 @@ noStroke();
 // let showRect = false
 // let showSquare = false
 // let showCircle = false
-let color = "red"
+// let color = "red"
+xpos = 
+
 function draw(){
 background("skyblue");
 // rect(width/2,height/2,rectsize,rectsize);
