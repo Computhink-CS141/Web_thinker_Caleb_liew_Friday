@@ -5,9 +5,10 @@ noStroke();
 }
 // let size = 5
 // rectsize = 20
-let showRect = false
-let showSquare = false
-let showCircle = false
+// let showRect = false
+// let showSquare = false
+// let showCircle = false
+let color = "red"
 function draw(){
 background("skyblue");
 // rect(width/2,height/2,rectsize,rectsize);
@@ -40,8 +41,8 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
-if (key === 40){
-    colo
+if (key === "40"){
+    color = ()
 
 
 }
