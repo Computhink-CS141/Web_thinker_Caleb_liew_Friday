@@ -23,8 +23,8 @@ background("skyblue");
 // if (showSquare){
     // rect(width/2,height/2,50,50);
 // }
-
-circle(width/2,height/2,100)
+fill()
+circle(width/2,height/2,100);
 
 }
 
