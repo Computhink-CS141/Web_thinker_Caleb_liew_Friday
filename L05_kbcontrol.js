@@ -20,13 +20,10 @@ rect(height/2,width/2,20,20);
 }
 
 function mousePressed(){
-    rectsize
-
-
-
+    rectsize = 200
 }
 function mouseRelesed(){
-
+rectsize
 
 
 }
