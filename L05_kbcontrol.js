@@ -22,7 +22,7 @@ rect(height/2,width/2,20,20);
 function keyPressed(){
     rectsize = 200;
 }
-function mRelesed(){
+function keyRelased(){
     rectsize = 50;
 }
 
