@@ -10,6 +10,7 @@ function draw(){
 function mouseDragged(){
 circle(mouseX,mouseY,size)
 size = size+100
+fill(random(1,255),random(1,255),random(1,255))
 }
 
 function mousePressed(){
