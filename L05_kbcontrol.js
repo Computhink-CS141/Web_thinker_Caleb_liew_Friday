@@ -42,10 +42,10 @@ function keyPressed(){
 print(key)
 print(keyCode)
 if (keyCode === "40"){
-    colour = "red";
+    color = "red";
 }
 if (keyCode=== UP_ARROW){
-    colour = "white";
+    color = "white";
 }
 
 }
