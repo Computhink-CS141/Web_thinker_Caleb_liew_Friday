@@ -1,6 +1,6 @@
 function setup(){
-createCanvas(600,600);
-backg;
+createCanvas(600,700);
+background("grey");
 noStroke();
 }
 // let size = 5
