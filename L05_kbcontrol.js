@@ -13,7 +13,7 @@ size = size+100
 }
 
 function mousePressed(){
-size = 5;
-fill(random(1,255),random(1,255),random(1,255))
+// size = 5;
+// fill(random(1,255),random(1,255),random(1,255))
 }
 
