@@ -5,7 +5,7 @@ noStroke();
 }
 // let size = 5
 // rectsize = 20
-showCircle
+let showCircle = false
 function draw(){
 background("skyblue");
 // rect(width/2,height/2,rectsize,rectsize);
