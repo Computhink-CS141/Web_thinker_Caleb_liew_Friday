@@ -19,10 +19,10 @@ rect(height/2,width/2,20,20);
 
 }
 
-function mousePressed(){
+function keyPressed(){
     rectsize = 200;
 }
-function mouseRelesed(){
+function mRelesed(){
     rectsize = 50;
 }
 
