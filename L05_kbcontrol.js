@@ -49,7 +49,9 @@ if(keyIsDown(UP_ARROW)){
     ypos -= 5
 }
 
-
+if(keyIsDown(W)){
+    
+}
 
 }
 
