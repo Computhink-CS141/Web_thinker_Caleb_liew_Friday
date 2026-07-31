@@ -31,7 +31,7 @@ background("skyblue");
 // circle(width/2,height/2,100);
 circle(xpos,height/2,50);
 if(keyIsDown(RIGHT_ARROW)){
-    xpos += 1
+    xpos += 5
 }
 
 
