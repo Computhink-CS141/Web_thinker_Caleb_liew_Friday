@@ -1,6 +1,7 @@
 function setup(){
 createCanvas(600,600);
 background("grey");
+noStroke()
 }
 let size = 5
 function draw(){
