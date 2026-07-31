@@ -33,7 +33,7 @@ background("skyblue");
 fill("white")
 circle(xpos,ypos,50);
 fill("black")
-circle(xpos,ypos-5,5);
+circle(xpos-7,ypos-5,7);
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
 }
