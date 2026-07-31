@@ -40,7 +40,11 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
-if (key === 40){}
+if (key === 40){
+    colo
+
+
+}
 
 
 }
