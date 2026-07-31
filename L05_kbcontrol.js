@@ -37,10 +37,10 @@ if(keyIsDown(RIGHT_ARROW)){
 if(keyIsDown(LEFT_ARROW)){
     xpos -= 5
 }
-if(keyIsDown(RIGHT_ARROW)){
+if(keyIsDown(UP_ARROW)){
     ypos += 5
 }
-if(keyIsDown(RIGHT_ARROW)){
+if(keyIsDown(DOWN_ARROW)){
     ypos -= 5
 }
 
