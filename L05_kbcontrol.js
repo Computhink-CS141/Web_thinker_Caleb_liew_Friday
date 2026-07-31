@@ -41,11 +41,11 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
-if (key === "40"){
+if (keyCode === "40"){
     color = ("red");
     fill("color");
 }
-if (key=== UP_ARROW){
+if (keyCode=== UP_ARROW){
     color = ("white");
     fill("color");
 }
