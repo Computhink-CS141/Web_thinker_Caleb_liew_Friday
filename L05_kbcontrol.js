@@ -32,6 +32,12 @@ function keyPressed(){
     if (key ==='c'){
         showCircle =!showCircle
     }
+    if (key ==='c'){
+        showCircle =!showCircle
+    }
+    if (key ==='c'){
+        showCircle =!showCircle
+    }
 }
 // function keyReleased(){
     // rectsize = 50;
