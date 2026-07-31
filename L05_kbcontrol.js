@@ -8,10 +8,11 @@ function draw(){
 }
 
 function mouseDragged(){
+
 }
 
 function mousePressed(){
-size = size +0.5
+size = size +0.5;
 
 
 }
