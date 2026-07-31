@@ -12,7 +12,7 @@ ypos = height/2
 // let showRect = false
 // let showSquare = false
 // let showCircle = false
-// let color = "red"
+let color = "white"
 
 function draw(){
 background("skyblue");
