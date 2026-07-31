@@ -1,3 +1,5 @@
+
+
 function setup(){
 createCanvas(1200,700);
 background("grey");
@@ -9,7 +11,6 @@ noStroke();
 // let showSquare = false
 // let showCircle = false
 // let color = "red"
-xpos = 0
 xpos = width/2
 
 
