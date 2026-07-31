@@ -53,7 +53,7 @@ if(keyIsDown(W)){
     color(random(1,255),random(1,255),random(1,255))
 }
 if(keyIsDown(S)){
-    color(random(1,255),random(1,255),random(1,255))
+    color("white")
 }
 }
 
