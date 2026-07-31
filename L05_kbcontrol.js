@@ -11,7 +11,7 @@ function mouseDragged(){
 }
 
 function mousePressed(){
-
+size = size +0.5
 
 
 }
