@@ -50,7 +50,7 @@ if(keyIsDown(UP_ARROW)){
 }
 
 if(keyIsDown(W)){
-    
+    color(random(1,255))
 }
 
 }
