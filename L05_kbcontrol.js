@@ -39,7 +39,7 @@ function keyPressed(){
     //     showRect =!showRect
     // }
 print(key)
-print(keycode)
+print(keyCode)
 }
 // function keyReleased(){
     // rectsize = 50;
