@@ -30,7 +30,7 @@ background("skyblue");
 // }
 // fill(color)
 // circle(width/2,height/2,100);
-circle(xpos,ypos/2,50);
+circle(xpos,ypos,50);
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
 }
