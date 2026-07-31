@@ -4,7 +4,19 @@ background("grey");
 noStroke();
 }
 // let size = 5
+
 function draw(){
+
+
+
+
+
+
+
+
+
+
+
 }
 
 // function mouseDragged(){
