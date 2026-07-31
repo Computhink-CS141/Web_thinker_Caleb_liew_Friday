@@ -48,8 +48,8 @@ if(keyIsDown(DOWN_ARROW)){
 if(keyIsDown(UP_ARROW)){
     ypos -= 5
 }
-xpos=constrain(xpos,0,width)
-xpos=constrain(xpos,0,height);
+xpos=constrain(xpos,0,width);
+ypos=constrain(ypos,0,height);
 }
 
 function keyPressed(){
