@@ -45,7 +45,7 @@ if (keyCode === DOWN_ARROW){
     color = "red";
 }
 if (keyCode=== UP_ARROW){
-    color = "white";
+    color = "black";
 }
 
 }
