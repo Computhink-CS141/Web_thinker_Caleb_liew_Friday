@@ -1,6 +1,6 @@
 function setup(){
 createCanvas(600,600);
-background("grey");
+backg;
 noStroke();
 }
 // let size = 5
@@ -22,7 +22,7 @@ rect(height/2,width/2,rectsize,rectsize);
 function keyPressed(){
     rectsize = 200;
 }
-function keyRelased(){
+function keyReleased(){
     rectsize = 50;
 }
 
