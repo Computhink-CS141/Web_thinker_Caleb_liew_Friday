@@ -8,7 +8,7 @@ function draw(){
 }
 
 function mouseDragged(){
-circle(mousex,mousey)
+circle(mouseX,mouseY,size)
 }
 
 function mousePressed(){
