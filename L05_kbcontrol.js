@@ -4,10 +4,10 @@ background("grey");
 noStroke();
 }
 // let size = 5
-
+rectsize = 20
 function draw(){
 background("skyblue");
-rect(height/2,width/2)
+rect(height/2,width/2,20,20)
 
 
 
