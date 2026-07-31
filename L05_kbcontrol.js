@@ -41,7 +41,7 @@ if(keyIsDown(RIGHT_ARROW)){
     ypos += 5
 }
 if(keyIsDown(RIGHT_ARROW)){
-    xpos += 5
+    ypos -= 5
 }
 
 
