@@ -31,7 +31,8 @@ background("skyblue");
 // fill(color)
 // circle(width/2,height/2,100);
 circle(xpos,ypos,50);
-ellipse(xpos,ypos,100);
+fill()
+ellipse(xpos,ypos,25,25);
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
 }
