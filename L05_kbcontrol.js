@@ -9,7 +9,7 @@ function draw(){
 
 function mouseDragged(){
 circle(mouseX,mouseY,size)
-size = size+0.5
+size = size+100
 }
 
 function mousePressed(){
