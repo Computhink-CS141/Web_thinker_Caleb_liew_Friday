@@ -34,11 +34,11 @@ circle(xpos,ypos/2,50);
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
 }
-if(keyIsDown(RIGHT_ARROW)){
-    xpos += 5
+if(keyIsDown(LEFT_ARROW)){
+    xpos -= 5
 }
 if(keyIsDown(RIGHT_ARROW)){
-    xpos += 5
+    ypos += 5
 }
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
