@@ -5,6 +5,7 @@ createCanvas(1200,700);
 background("grey");
 noStroke();
 xpos = width/2
+
 }
 // let size = 5
 // rectsize = 20
@@ -12,8 +13,6 @@ xpos = width/2
 // let showSquare = false
 // let showCircle = false
 // let color = "red"
-xpos = width/2
-
 
 function draw(){
 background("skyblue");
