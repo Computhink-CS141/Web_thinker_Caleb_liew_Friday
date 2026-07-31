@@ -2,7 +2,7 @@ function setup(){
 createCanvas(600,600);
 background("grey");
 }
-
+size
 function draw(){
 
 }
@@ -10,5 +10,9 @@ function draw(){
 function mouseDragged(){
 }
 
-function mousePressed(){}
+function mousePressed(){
+
+
+
+}
 
