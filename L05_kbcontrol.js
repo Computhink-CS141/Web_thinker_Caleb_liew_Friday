@@ -12,7 +12,7 @@ circle(mouseX,mouseY,size)
 size = size+100
 }
 
-function mouse(){
+function mousePressed(){
 size = 5;
 fill(random(1,255),random(1,255),random(1,255))
 }
