@@ -24,7 +24,7 @@ background("skyblue");
     // rect(width/2,height/2,50,50);
 // }
 
-
+circle
 
 }
 
@@ -45,8 +45,7 @@ if (key === "40"){
     color = ("red");
 }
 if (key=== UP_ARROW){
-    color = ()
-
+    color = ("white")
 }
 
 }
