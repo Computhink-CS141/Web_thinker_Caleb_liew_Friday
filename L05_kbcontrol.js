@@ -33,7 +33,8 @@ function keyPressed(){
         showCircle =!showCircle
     }
     if (key ==='s'){
-        showCircle =!showCircle
+        show =!showSquare
+
     }
     if (key ==='r'){
         showRect =!showRect
