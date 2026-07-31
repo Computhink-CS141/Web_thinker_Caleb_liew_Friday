@@ -48,7 +48,7 @@ if(keyIsDown(DOWN_ARROW)){
 if(keyIsDown(UP_ARROW)){
     ypos -= 5
 }
-xpos=constrain()
+xpos=constrain(xpos,0,width)
 
 }
 
