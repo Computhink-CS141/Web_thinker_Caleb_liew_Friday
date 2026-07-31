@@ -19,9 +19,9 @@ rect(width/2,height/2,rectsize,rectsize);
 
 }
 
-function keyPressed(){
-    rectsize = 200;
-}
+// function keyPressed(){
+    // rectsize = 200;
+// }
 // function keyReleased(){
     // rectsize = 50;
 // }
