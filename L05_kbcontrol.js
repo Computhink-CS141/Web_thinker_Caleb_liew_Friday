@@ -4,7 +4,6 @@ background("grey");
 }
 let size = 5
 function draw(){
-
 }
 
 function mouseDragged(){
@@ -15,6 +14,5 @@ size = size+0.5
 function mousePressed(){
 size = 5;
 fill(random(1,255),random(1,255),random(1,255))
-
 }
 
