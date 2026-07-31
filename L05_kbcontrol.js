@@ -36,7 +36,7 @@ function keyPressed(){
         showCircle =!showCircle
     }
     if (key ==='r'){
-        showRect =!showCircle
+        showRect =!showRect
     }
 }
 // function keyReleased(){
