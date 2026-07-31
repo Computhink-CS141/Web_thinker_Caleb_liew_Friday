@@ -35,8 +35,8 @@ function keyPressed(){
     if (key ==='s'){
         showCircle =!showCircle
     }
-    if (key ==='t'){
-        showC =!showCircle
+    if (key ==='r'){
+        showRect =!showCircle
     }
 }
 // function keyReleased(){
