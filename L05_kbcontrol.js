@@ -43,11 +43,11 @@ print(key)
 print(keyCode)
 if (key === "40"){
     color = ("red");
-    fill(color);
+    fill("color");
 }
 if (key=== UP_ARROW){
     color = ("white");
-    fill(color);
+    fill("color");
 }
 
 }
