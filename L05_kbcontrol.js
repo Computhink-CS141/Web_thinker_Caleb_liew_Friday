@@ -45,8 +45,8 @@ if (key === "40"){
     color = ("red");
 }
 if (key=== UP_ARROW){
+    color = ()
 
-    
 }
 
 }
