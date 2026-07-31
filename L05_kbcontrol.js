@@ -30,7 +30,7 @@ background("skyblue");
 // }
 // fill(color)
 // circle(width/2,height/2,100);
-fill("white")
+fill("red")
 circle(xpos,ypos,50);
 fill("black")
 circle(xpos-9,ypos-7,7);
