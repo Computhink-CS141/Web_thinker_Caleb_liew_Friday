@@ -1,11 +1,11 @@
 xpos = 0
-
+ypos = 
 function setup(){
 createCanvas(1200,700);
 background("grey");
 noStroke();
 xpos = width/2
-
+ypos = height/2
 }
 // let size = 5
 // rectsize = 20
