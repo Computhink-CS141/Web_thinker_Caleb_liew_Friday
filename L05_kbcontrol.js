@@ -47,6 +47,7 @@ if (key === "40"){
 }
 if (key=== UP_ARROW){
     color = ("white")
+    fill(color)
 }
 
 }
