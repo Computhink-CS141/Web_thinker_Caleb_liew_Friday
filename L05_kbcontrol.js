@@ -10,7 +10,7 @@ noStroke();
 // let showCircle = false
 // let color = "red"
 xpos = 0
-
+xpos = width/2
 
 
 function draw(){
