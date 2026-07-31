@@ -6,7 +6,7 @@ noStroke();
 // let size = 5
 
 function draw(){
-background(skyblue)
+background("skyblue");
 
 
 
