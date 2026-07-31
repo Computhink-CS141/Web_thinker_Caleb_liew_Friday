@@ -14,7 +14,7 @@ size = size+0.5
 
 function mousePressed(){
 size = 5;
-FileList()
+
 
 }
 
