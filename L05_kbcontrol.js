@@ -49,7 +49,7 @@ if(keyIsDown(UP_ARROW)){
     ypos -= 5
 }
 xpos=constrain(xpos,0,width)
-
+xpos=constrain(xpos,0,height);
 }
 
 function keyPressed(){
