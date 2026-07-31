@@ -38,9 +38,6 @@ function keyPressed(){
     if (key ==='r'){
         showRect =!showRect
     }
-        if (key ==='r'){
-        showRect =!showRect
-    }
 }
 // function keyReleased(){
     // rectsize = 50;
