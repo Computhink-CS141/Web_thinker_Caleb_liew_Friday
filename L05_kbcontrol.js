@@ -32,11 +32,11 @@ function keyPressed(){
     if (key ==='c'){
         showCircle =!showCircle
     }
-    if (key ==='c'){
+    if (key ==='s'){
         showCircle =!showCircle
     }
-    if (key ==='c'){
-        showCircle =!showCircle
+    if (key ==='t'){
+        showC =!showCircle
     }
 }
 // function keyReleased(){
