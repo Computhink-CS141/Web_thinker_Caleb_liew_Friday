@@ -25,7 +25,7 @@ background("skyblue");
 // }
 // fill(color)
 // circle(width/2,height/2,100);
-
+circle(xpos,height/2,s)
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 1
 }
