@@ -14,10 +14,10 @@ if (showCircle){
 }
 
 if (showRect){
-    circle(width/2,height/2,50,50);
+    rect(width/2,height/2,50,50);
 }
 
-if (showC){
+if (showSquare){
     circle(width/2,height/2,50,50);
 }
 
