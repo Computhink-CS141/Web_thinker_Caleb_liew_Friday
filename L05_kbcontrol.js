@@ -9,7 +9,9 @@ noStroke();
 // let showSquare = false
 // let showCircle = false
 // let color = "red"
-xpos = 
+xpos = 0
+
+
 
 function draw(){
 background("skyblue");
