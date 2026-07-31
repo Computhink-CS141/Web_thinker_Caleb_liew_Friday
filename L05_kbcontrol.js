@@ -2,7 +2,7 @@ function setup(){
 createCanvas(600,600);
 background("grey");
 }
-let size = 
+let size = 0
 function draw(){
 
 }
