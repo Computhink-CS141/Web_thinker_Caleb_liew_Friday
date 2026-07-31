@@ -6,7 +6,7 @@ noStroke();
 // let size = 5
 // rectsize = 20
 let showRect = false
-let showCircle = false
+let showSquare = false
 let showCircle = false
 function draw(){
 background("skyblue");
