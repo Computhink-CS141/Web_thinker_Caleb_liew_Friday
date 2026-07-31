@@ -41,12 +41,12 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
-if (keyCode === DOWN_ARROW){
-    color = "red";
-}
-if (keyCode=== UP_ARROW){
-    color = "black";
-}
+// if (keyCode === DOWN_ARROW){
+//     color = "red";
+// }
+// if (keyCode=== UP_ARROW){
+//     color = "black";
+// }
 
 }
 // function keyReleased(){
