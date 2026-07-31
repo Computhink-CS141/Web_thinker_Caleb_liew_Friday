@@ -1,5 +1,5 @@
 xpos = 0
-ypos = 
+ypos = 0
 function setup(){
 createCanvas(1200,700);
 background("grey");
@@ -30,7 +30,7 @@ background("skyblue");
 // }
 // fill(color)
 // circle(width/2,height/2,100);
-circle(xpos,height/2,50);
+circle(xpos,ypos/2,50);
 if(keyIsDown(RIGHT_ARROW)){
     xpos += 5
 }
