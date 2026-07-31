@@ -23,9 +23,7 @@ function mousePressed(){
     rectsize = 200
 }
 function mouseRelesed(){
-rectsize
-
-
+    rectsize = 50;
 }
 
 
