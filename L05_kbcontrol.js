@@ -7,7 +7,7 @@ noStroke();
 
 function draw(){
 background("skyblue");
-
+rect(w)
 
 
 
