@@ -11,17 +11,17 @@ let showCircle = false
 function draw(){
 background("skyblue");
 // rect(width/2,height/2,rectsize,rectsize);
-if (showCircle){
-    circle(width/2,height/2,50,50);
-}
+// if (showCircle){
+    // circle(width/2,height/2,50,50);
+// }
 
-if (showRect){
-    rect(width/2,height/2,100,50);
-}
+// if (showRect){
+    // rect(width/2,height/2,100,50);
+// }
 
-if (showSquare){
-    rect(width/2,height/2,50,50);
-}
+// if (showSquare){
+    // rect(width/2,height/2,50,50);
+// }
 
 
 
@@ -29,15 +29,15 @@ if (showSquare){
 
 function keyPressed(){
     // rectsize = 200;
-    if (key ==='c'){
-        showCircle =!showCircle
-    }
-    if (key ==='s'){
-        showSquare =!showSquare
-    }
-    if (key ==='r'){
-        showRect =!showRect
-    }
+    // if (key ==='c'){
+    //     showCircle =!showCircle
+    // }
+    // if (key ==='s'){
+    //     showSquare =!showSquare
+    // }
+    // if (key ==='r'){
+    //     showRect =!showRect
+    // }
 }
 // function keyReleased(){
     // rectsize = 50;
