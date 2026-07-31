@@ -49,12 +49,7 @@ if(keyIsDown(UP_ARROW)){
     ypos -= 5
 }
 
-if(keyIsDown(W)){
-    color(random(1,255),random(1,255),random(1,255))
-}
-if(keyIsDown(S)){
-    color("white")
-}
+
 }
 
 function keyPressed(){
