@@ -7,7 +7,7 @@ noStroke();
 rectsize = 20
 function draw(){
 background("skyblue");
-rect(height/2,height/2,rectsize,rectsize);
+rect(width/2,height/2,rectsize,rectsize);
 
 
 
