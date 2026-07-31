@@ -38,8 +38,8 @@ function keyPressed(){
     // if (key ==='r'){
     //     showRect =!showRect
     // }
-pr
 print(key)
+print(keycode)
 }
 // function keyReleased(){
     // rectsize = 50;
