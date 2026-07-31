@@ -40,6 +40,9 @@ function keyPressed(){
     // }
 print(key)
 print(keyCode)
+if (key === 40){}
+
+
 }
 // function keyReleased(){
     // rectsize = 50;
