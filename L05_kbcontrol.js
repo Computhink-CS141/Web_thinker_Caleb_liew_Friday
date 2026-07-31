@@ -29,15 +29,15 @@ if (showSquare){
 
 function keyPressed(){
     // rectsize = 200;
-    if (key ==='c'){
-        showCircle =!showCircle
-    }
-    if (key ==='s'){
-        showSquare =!showSquare
-    }
-    if (key ==='r'){
-        showRect =!showRect
-    }
+    // if (key ==='c'){
+    //     showCircle =!showCircle
+    // }
+    // if (key ==='s'){
+    //     showSquare =!showSquare
+    // }
+    // if (key ==='r'){
+    //     showRect =!showRect
+    // }
 }
 // function keyReleased(){
     // rectsize = 50;
