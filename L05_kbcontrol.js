@@ -9,9 +9,9 @@ let showCircle = false
 function draw(){
 background("skyblue");
 // rect(width/2,height/2,rectsize,rectsize);
-if ()
+if (showCircle){
     circle(width/2,height/2,50,50);
-
+}
 
 
 
