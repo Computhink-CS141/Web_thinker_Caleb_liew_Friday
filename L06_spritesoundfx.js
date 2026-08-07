@@ -1,7 +1,6 @@
 let picoImg
 function  preload() {
     picoImg = loadImage('asserts/pico-a.png');
-
 }
 let ypos
 let xpos
@@ -12,6 +11,7 @@ function setup(){
     noStroke();
     xpos = width/2;
     ypos = height/2;
+    image ()
 }
 
 function draw(){
