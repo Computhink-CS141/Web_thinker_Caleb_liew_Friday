@@ -9,8 +9,8 @@ function setup(){
     rectMode(CENTER);
     noStroke();
 }
-let Xpos = 
-
+let Xpos = width/2
+let ypos
 function draw(){
     background("skyblue");
     rect(width/2,height/2,50,50)
