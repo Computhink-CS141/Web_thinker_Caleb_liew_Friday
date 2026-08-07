@@ -33,7 +33,7 @@ function draw(){
     }
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3
-        soundB
+        soundBGM.stop
     }    
     xpos = constrain(xpos,55,width-55);
     ypos = constrain(ypos,67,height-67);
