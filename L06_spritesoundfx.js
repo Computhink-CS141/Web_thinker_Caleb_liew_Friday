@@ -35,6 +35,13 @@ function draw(){
     ypos = constrain(ypos,67,height-67);
 
 }
+
+function keyPressed(){
+
+}
+
+
+
 // function draw(){
 //     background("skyblue");
 //     fill("white");
