@@ -9,7 +9,7 @@ function setup(){
     rectMode(CENTER);
     noStroke();
 }
-
+XSLTProcessor()
 
 function draw(){
     background("skyblue");
