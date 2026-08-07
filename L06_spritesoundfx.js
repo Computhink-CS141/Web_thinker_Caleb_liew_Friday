@@ -2,7 +2,7 @@ let picoImg;
 let soundSFX;
 function  preload() {
     picoImg = loadImage('assets/pico-a.png');
-    soundSFX = loadSound('assets')
+    soundSFX = loadSound('assets/pop.mp3');
 }
 let ypos
 let xpos
