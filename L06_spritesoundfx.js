@@ -17,7 +17,7 @@ function draw(){
     background("skyblue");
     rect(xpos,ypos,50,50)
     if (keyIsDown(UP_ARROW)){
-        ypos = ypos+1
+        ypos = ypos-1
     }
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+1
