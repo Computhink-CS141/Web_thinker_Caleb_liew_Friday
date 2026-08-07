@@ -15,13 +15,13 @@ function setup(){
 }
 
 function draw(){
-    background("lightblue");
+    // background("lightblue");
     image (picoImg,xpos,ypos,110,133);
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+3
+        xpos = xpos+100
     }
     if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos-3
+        xpos = xpos-100
     }
     if (keyIsDown(UP_ARROW)){
         ypos = ypos-3
