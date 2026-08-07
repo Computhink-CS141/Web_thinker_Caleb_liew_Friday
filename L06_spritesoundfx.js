@@ -42,7 +42,7 @@ function keyPressed(){
     if (keyCode === 32);
     soundSFX.play();
     if (keyCode (UP_ARROW));
-    sound.play();
+    soundBGM.loop();
     if (keyCode (DOWN_ARROW));
     soundSFX.play();
 
