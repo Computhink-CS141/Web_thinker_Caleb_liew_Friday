@@ -4,7 +4,7 @@ let soundBGM;
 function  preload() {
     picoImg = loadImage('assets/pico-a.png');
     soundBGM = loadSound('assets/star_wars_theme_8_bit.mp3');
-    soundSFX = loadSound()
+    soundSFX = loadSound('assets/')
 }
 let ypos
 let xpos
