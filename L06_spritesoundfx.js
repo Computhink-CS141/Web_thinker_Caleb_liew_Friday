@@ -20,14 +20,14 @@ function draw(){
         ypos = ypos+1
     }
     if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos-1
+        ypos = ypos+1
     }
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+1
-    }
-    if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-1
     }
-    xpos = constraint(xpos,50,350);
-    ypos = constraint(ypos,50,350);
+    if (keyIsDown(LEFT_ARROW)){
+        xpos = xpos+1
+    }
+    xpos = constrain(xpos,50,350);
+    ypos = constrain(ypos,50,350);
 }
