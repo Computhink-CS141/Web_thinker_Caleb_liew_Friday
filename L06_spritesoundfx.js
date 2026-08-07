@@ -6,7 +6,7 @@ let ypos
 let xpos
 function setup(){
     createCanvas(400,400);
-    background("lightblue");
+    background("black");
     rectMode(CENTER);
     noStroke();
     xpos = width/2;
