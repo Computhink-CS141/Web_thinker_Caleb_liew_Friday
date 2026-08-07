@@ -1,6 +1,6 @@
 let picoImg
 function  preload() {
-    picoImg = loadImage('asserts/pico-a.png');
+    picoImg = loadImage('assets/pico-a.png');
 }
 let ypos
 let xpos
