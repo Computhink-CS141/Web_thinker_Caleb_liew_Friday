@@ -5,7 +5,7 @@ function  preload() {
 let ypos
 let xpos
 function setup(){
-    createCanvas(1000,1000);
+    createCanvas(700,2000);
     background("lightblue");
     // rectMode(CENTER);
     imageMode(CENTER)
