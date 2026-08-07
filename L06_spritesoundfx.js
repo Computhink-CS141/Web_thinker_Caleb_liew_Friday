@@ -11,9 +11,11 @@ function setup(){
 }
 let xpos = width/2;
 let ypos = height/2;
+
 function draw(){
     background("skyblue");
-    rect(width/2,height/2,50,50)
+    rect(xpos,ypos
+        ,50,50)
 
 
 
