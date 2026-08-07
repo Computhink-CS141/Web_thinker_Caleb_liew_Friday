@@ -19,7 +19,7 @@ function draw(){
     fill("white");
     rect(width/2,height/2,300,300)
     fill("black");
-    rect(xpos,ypos,300,300)
+    rect(xpos,ypos,50,50)
     if (keyIsDown(UP_ARROW)){
         ypos = ypos-3
     }
