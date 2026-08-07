@@ -5,7 +5,7 @@ function  preload() {
 let ypos
 let xpos
 function setup(){
-    createCanvas(2000,700);
+    createCanvas(400,400);
     background("lightblue");
     // rectMode(CENTER);
     imageMode(CENTER)
@@ -15,22 +15,22 @@ function setup(){
 }
 
 function draw(){
-    // background("lightblue");
+    background("lightblue");
     image (picoImg,xpos,ypos,110,133);
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+100
+        xpos = xpos+3
     }
     if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos-100
+        xpos = xpos-3
     }
     if (keyIsDown(UP_ARROW)){
-        ypos = ypos-100
+        ypos = ypos-3
     }
     if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos+100
+        ypos = ypos+3
     }    
     xpos = constrain(xpos,55,width-55);
-    ypos = constrain(ypos,+67,height-67);
+    ypos = constrain(ypos,height+67,height-67);
 
 }
 // function draw(){
