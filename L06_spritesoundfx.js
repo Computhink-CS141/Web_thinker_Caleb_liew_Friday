@@ -8,9 +8,9 @@ function setUp(){
     background("lightblue");
 }
 function draw(){
+    background("skyblue");
+
+
+
     
-
-
-
-
 }
