@@ -11,7 +11,7 @@ function setup(){
     noStroke();
     xpos = width/2;
     ypos = height/2;
-    image (picoImg,0,0,110,133);
+    image (picoImg,xpos,ypos,110,133);
 }
 
 function draw(){
