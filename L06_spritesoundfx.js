@@ -8,6 +8,8 @@ function setup(){
     background("lightblue");
     rectMode(CENTER);
     noStroke();
+    xpos = width/2;
+    ypos = height/2;
 }
 xpos = width/2;
 ypos = height/2;
