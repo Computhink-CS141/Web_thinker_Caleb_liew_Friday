@@ -15,7 +15,7 @@ function setup(){
 }
 
 function draw(){
-    bac
+    background("lightblue");
     if (keyIsDown(RIGHT_ARROW)){
         xpos = xpos+3
     }
