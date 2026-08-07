@@ -4,7 +4,7 @@ function  preload() {
 }
 
 function setup(){
-    createCanvas(300,300);
+    createCanvas(400,400);
     background("lightblue");
     rectMode(CENTER);
     noStroke();
@@ -14,9 +14,11 @@ let ypos = height/2;
 
 function draw(){
     background("skyblue");
-    rect(xpos,ypos
-        ,50,50)
+    rect(xpos,ypos,50,50)
+    if (keyIsDown(UP_ARROW)){
 
+        
+    }
 
 
 }
