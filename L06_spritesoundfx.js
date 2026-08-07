@@ -29,7 +29,7 @@ function draw(){
     }
     if (keyIsDown(UP_ARROW)){
         ypos = ypos-3
-        
+        soundBGM.loop()
     }
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3
