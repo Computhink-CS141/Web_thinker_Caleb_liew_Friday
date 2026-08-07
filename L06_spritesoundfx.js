@@ -4,7 +4,7 @@ function  preload() {
 }
 
 function setUp(){
-    createCanvas()
-
+    createCanvas(600,600);
+    background("grey")
 
 }
