@@ -19,9 +19,9 @@ function draw(){
         ypos = ypos+1
     }
     if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos+1
+        ypos = ypos-1
     }
-    if (keyIsDown(UP_ARROW)){
+    if (keyIsDown(RIGHT_ARROW)){
         ypos = ypos+1
     }
     if (keyIsDown(UP_ARROW)){
