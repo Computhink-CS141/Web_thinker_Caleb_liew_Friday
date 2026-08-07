@@ -1,4 +1,5 @@
 let picoImg
+let
 function  preload() {
     picoImg = loadImage('assets/pico-a.png');
 }
@@ -18,16 +19,16 @@ function draw(){
     // background("lightblue");
     image (picoImg,xpos,ypos,110,133);
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+100
+        xpos = xpos+3
     }
     if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos-100
+        xpos = xpos-3
     }
     if (keyIsDown(UP_ARROW)){
-        ypos = ypos-100
+        ypos = ypos-3
     }
     if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos+100
+        ypos = ypos+3
     }    
     xpos = constrain(xpos,55,width-55);
     ypos = constrain(ypos,67,height-67);
