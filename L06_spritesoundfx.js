@@ -2,8 +2,8 @@ function  preload() {
 
 
 }
-
-
+let ypos
+let xpos
 function setup(){
     createCanvas(400,400);
     background("lightblue");
