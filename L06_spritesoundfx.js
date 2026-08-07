@@ -1,3 +1,4 @@
+let picoImg
 function  preload() {
 
 
