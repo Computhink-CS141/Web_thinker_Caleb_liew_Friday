@@ -11,11 +11,11 @@ function setup(){
     noStroke();
     xpos = width/2;
     ypos = height/2;
-    image (picoImg,xpos,ypos,110,133);
 }
 
 function draw(){
     background("lightblue");
+    image (picoImg,xpos,ypos,110,133);
     if (keyIsDown(RIGHT_ARROW)){
         xpos = xpos+3
     }
