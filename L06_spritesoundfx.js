@@ -28,17 +28,10 @@ function draw(){
     }
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3
-    }
-    
+    }    
     xpos = constrain(xpos,75,325);
     ypos = constrain(ypos,75,325);
-
-
-
-
-
-
-
+    
 }
 // function draw(){
 //     background("skyblue");
