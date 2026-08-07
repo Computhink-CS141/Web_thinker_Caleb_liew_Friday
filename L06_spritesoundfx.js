@@ -1,6 +1,6 @@
 let picoImg
 function  preload() {
-    
+    picoImg = load
 
 }
 let ypos
