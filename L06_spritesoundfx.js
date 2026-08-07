@@ -42,9 +42,8 @@ function keyPressed(){
     if (keyCode === 32);
     soundSFX.play();
     if (keyCode (UP_ARROW));
-    soundSFX.play();
-    if (keyCode (DOWN_ARROW
-    ));
+    sound.play();
+    if (keyCode (DOWN_ARROW));
     soundSFX.play();
 
 }
