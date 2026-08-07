@@ -25,6 +25,6 @@ function draw(){
         xpos = xpos+1
     }
     if (keyIsDown(LEFT_ARROW)){
-        ypos = ypos+1
+        xpos = xpos-1
     }
 }
