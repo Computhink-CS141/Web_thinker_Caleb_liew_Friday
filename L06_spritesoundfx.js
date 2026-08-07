@@ -15,6 +15,7 @@ function setup(){
 
 function draw(){
     background("skyblue");
+    fill("white")
     rect(width/2,height/2,300,300)
     fill("grey")
     rect(xpos,ypos,50,50)
