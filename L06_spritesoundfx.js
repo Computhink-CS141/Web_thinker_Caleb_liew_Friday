@@ -5,7 +5,7 @@ function  preload() {
 let ypos
 let xpos
 function setup(){
-    createCanvas(200,200);
+    createCanvas(400,400);
     background("lightblue");
     // rectMode(CENTER);
     noStroke();
@@ -16,9 +16,9 @@ function setup(){
 
 function draw(){
     if (keyIsDown(RIGHT_ARROW)){
-//         xpos = xpos+3
-//     }
-//     if (keyIsDown(LEFT_ARROW)){
+        xpos = xpos+3
+    }
+    if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-3
     }
     xpos = constrain(xpos,75,325);
