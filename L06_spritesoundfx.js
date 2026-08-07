@@ -27,6 +27,6 @@ function draw(){
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-1
     }
-    xpos = constraint(xpos,300,300)
+    xpos = constraint(xpos,300,)
 
 }
