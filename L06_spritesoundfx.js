@@ -42,11 +42,6 @@ function draw(){
 function keyPressed(){
     if (keyCode === 32);
     soundSFX.play();
-    if (keyCode (UP_ARROW));
-    soundBGM.loop();
-    if (keyCode (DOWN_ARROW));
-    soundSFX.play();
-
 }
 
 
