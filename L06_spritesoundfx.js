@@ -9,7 +9,7 @@ function setup(){
     rectMode(CENTER);
     noStroke();
 }
-Xpos
+let Xpos = 
 
 function draw(){
     background("skyblue");
