@@ -14,8 +14,8 @@ function setup(){
     ypos = height/2;
     noStroke();
 }
-let ballx
-
+let ballx =300
+print( ballx)
 
 
 
