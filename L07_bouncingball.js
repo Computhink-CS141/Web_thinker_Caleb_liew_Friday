@@ -4,7 +4,7 @@ function setup(){
 }
 
 function draw(){
-    backdound(0)
+    background(0);
 
 
 
