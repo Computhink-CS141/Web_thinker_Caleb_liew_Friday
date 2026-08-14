@@ -37,7 +37,7 @@ function draw(){
 
 function keyPressed(){
     if (keyCode===32) {
-    widthsize/2;
+    widthsize = width;
     popsound.play();
     }
 }
