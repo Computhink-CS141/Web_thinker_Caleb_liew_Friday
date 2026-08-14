@@ -18,16 +18,15 @@ function draw(){
     background(0);
     image(picoimg,xpos,ypos,widthsize,133);
     if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+3
+        xpos = xpos+3;
         widthsize*2;
     }
     if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos-3
+        xpos = xpos-3;
         widthsize*2;
     }
     if (keyIsDown(UP_ARROW)){
-        ypos = ypos-3
-    
+        ypos = ypos-3;
         widthsize*2;}
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3;
