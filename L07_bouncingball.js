@@ -31,7 +31,8 @@ function draw(){
     bally = bally + ballSpeedy;
     if (ballx <= 0+15){
         ballSpeedx = ballSpeedx*-1
-        
+        random(0,255)
+
         fill(randomR,randomB,randomG);
     } 
     if (ballx >= width-15){
