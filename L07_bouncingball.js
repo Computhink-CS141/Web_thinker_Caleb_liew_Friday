@@ -19,7 +19,7 @@ function draw(){
     image(picoimg,xpos,ypos,widthsize,133);
     if (keyIsDown(RIGHT_ARROW)){
         xpos = xpos+3
-        
+        widthsize
     }
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-3
