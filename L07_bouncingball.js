@@ -3,7 +3,7 @@ let popsound;
 
 function preload(){
     picoimg = loadSound("assets/pico-a.png");
-
+    popsound = loadSoy
 
 }
 
