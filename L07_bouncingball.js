@@ -58,12 +58,12 @@ function draw(){
         randomG = random(0,255);
         fill(randomR,randomB,randomG,random(0,255));
     }
+function keyPressed(){
+    if(keyCode === UP_ARROW){
 
+    }
 
-
-
-
-
+}
 
 
 
