@@ -10,7 +10,8 @@ function setup(){
     createCanvas(500,500);
     background(0);
     imageMode(CENTER);
-    xpos = 
+    xpos = width/2
+    ypos = height /2
 }
 
 function draw(){
