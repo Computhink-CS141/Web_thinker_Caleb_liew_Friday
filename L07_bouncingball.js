@@ -13,32 +13,72 @@ function setup(){
     xpos = width/2;
     ypos = height/2;
 }
-let widthsize;
-widthsize = 110
-function draw(){
-    background(0);
-    image(picoimg,xpos,ypos,widthsize,133);
-    if (keyIsDown(RIGHT_ARROW)){
-        xpos = xpos+3;
-        widthsize = 55;
-    }
-    if (keyIsDown(LEFT_ARROW)){
-        xpos = xpos-3;
-        widthsize = 55;
-    }
-    if (keyIsDown(UP_ARROW)){
-        ypos = ypos-3;
-        widthsize =55;}
-    if (keyIsDown(DOWN_ARROW)){
-        ypos = ypos+3;
-        widthsize =55;
-    }
-}
 
-function keyPressed(){
-    if (keyCode===32) {
-    widthsize = 110;
-    popsound.play();
-    }
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// let widthsize;
+// widthsize = 110
+// function draw(){
+//     background(0);
+//     image(picoimg,xpos,ypos,widthsize,133);
+//     if (keyIsDown(RIGHT_ARROW)){
+//         xpos = xpos+3;
+//         widthsize = 55;
+//     }
+//     if (keyIsDown(LEFT_ARROW)){
+//         xpos = xpos-3;
+//         widthsize = 55;
+//     }
+//     if (keyIsDown(UP_ARROW)){
+//         ypos = ypos-3;
+//         widthsize =55;}
+//     if (keyIsDown(DOWN_ARROW)){
+//         ypos = ypos+3;
+//         widthsize =55;
+//     }
+// }
+
+// function keyPressed(){
+//     if (keyCode===32) {
+//     widthsize = 110;
+//     popsound.play();
+//     }
+// }
 
