@@ -15,11 +15,11 @@ function setup(){
     noStroke();
 
 }
-let ballx =300
-let bally =300
-let ballSize =10
-let ballSpeedx = 2
-
+let ballx =300;
+let bally =300;
+let ballSize =10;
+let ballSpeedx = 2;
+let ballSpeedy = 2;
 
 
 function draw(){
