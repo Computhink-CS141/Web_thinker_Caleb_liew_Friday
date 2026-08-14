@@ -4,7 +4,6 @@ let popsound;
 function preload(){
     picoimg = loadImage("assets/pico-a.png");
     popsound = loadSound("assets/pop.mp3");
-
 }
 
 function setup(){
