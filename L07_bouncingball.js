@@ -2,8 +2,8 @@ let picoimg;
 let popsound;
 
 function preload(){
-    picoimg = loadSound("assets/pico-a.png");
-    popsound = loadSoy
+    picoimg = loadImage("assets/pico-a.png");
+    popsound = loadSound
 
 }
 
