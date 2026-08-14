@@ -29,8 +29,11 @@ function draw(){
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3
 }
-
 }
 
+function keyPressed(){
 
+
+    
+}
 
