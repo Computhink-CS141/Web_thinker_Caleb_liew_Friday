@@ -19,7 +19,7 @@ ballx =width/2;
 bally =height/2;
 }
 
-let ballSize =10;
+let ballSize =30;
 let ballSpeedx = 2;
 let ballSpeedy = 2;
 
