@@ -13,8 +13,8 @@ function setup(){
     xpos = width/2;
     ypos = height/2;
 }
-let wigthsize;
-
+let widthsize;
+widthsize = 110
 function draw(){
     background(0);
     image(picoimg,xpos,ypos,widthsize,133);
