@@ -19,6 +19,7 @@ function draw(){
     image(picoimg,xpos,ypos,widthsize,133);
     if (keyIsDown(RIGHT_ARROW)){
         xpos = xpos+3
+        
     }
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-3
@@ -32,7 +33,7 @@ function draw(){
 }
 
 function keyPressed(){
-    if (keyCode===32);
+    if (keyCode===55);
     widthsize/2;
 }
 
