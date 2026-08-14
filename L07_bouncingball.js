@@ -15,8 +15,8 @@ function setup(){
     xpos = width/2;
     ypos = height/2;
     noStroke();
-let ballx =width/2;
-let bally =height/2;
+ballx =width/2;
+bally =height/2;
 }
 
 let ballSize =10;
