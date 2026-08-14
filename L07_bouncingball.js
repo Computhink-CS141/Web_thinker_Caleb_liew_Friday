@@ -1,7 +1,8 @@
 let picoimg;
+let opo
 
 function preload(){
-    picoimg = loadSound("assets/pico-a.png")
+    picoimg = loadSound("assets/pico-a.png");
 
 
 }
