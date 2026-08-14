@@ -20,7 +20,7 @@ bally =height/2;
 }
 
 let ballSize =30;
-let ballSpeedx = 300;
+let ballSpeedx = 10;
 let ballSpeedy = 250;
 let randomR,randomG,randomB;
 
