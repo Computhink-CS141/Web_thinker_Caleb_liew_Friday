@@ -18,7 +18,7 @@ function setup(){
 let ballx =300
 let bally =300
 let ballSize =10
-let ballSpeed = 2
+let ballSpeedx = 2
 
 
 
