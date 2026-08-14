@@ -63,7 +63,10 @@ function keyPressed(){
         ballSpeedx*=5;
         ballSpeedy*=5;
     }
-
+    if(keyCode === DOWN_ARROW){
+        ballSpeedx*=5;
+        ballSpeedy*=5;
+    }
 }
 
 
