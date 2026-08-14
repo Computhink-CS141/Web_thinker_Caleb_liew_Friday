@@ -17,6 +17,6 @@ function setup(){
 function draw(){
     background(0);
     image(picoimg,xpos,ypos,widthsize,133);
-
+    
 
 }
