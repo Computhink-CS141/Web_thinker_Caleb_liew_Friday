@@ -26,6 +26,7 @@ let randomR,randomG,randomB;
 
 function draw(){
     // background (0);
+    fill(255)
     circle (ballx,bally,ballSize)
     ballx = ballx + ballSpeedx;
     bally = bally + ballSpeedy;
