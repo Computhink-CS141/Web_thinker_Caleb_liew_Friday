@@ -36,8 +36,9 @@ function draw(){
 }
 
 function keyPressed(){
-    if (keyCode===55);
+    if (keyCode===55) {
     widthsize/2;
     popsound.play
+}
 }
 
