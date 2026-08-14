@@ -12,7 +12,7 @@ function setup(){
     imageMode(CENTER);
     xpos = width/2;
     ypos = height/2;
-    no
+    noStroke();
 }
 
 
