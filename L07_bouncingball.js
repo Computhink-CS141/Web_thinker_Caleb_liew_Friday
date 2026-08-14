@@ -38,13 +38,17 @@ function draw(){
     } 
     if (ballx >= width-15){
         ballSpeedx = ballSpeedx*-1
-                randomR = random(0,255);
+        randomR = random(0,255);
         randomB = random(0,255);
         randomG = random(0,255);
         fill(randomR,randomB,randomG);
     }
     if (bally <= 0+15){
         ballSpeedy = ballSpeedy*-1
+                randomR = random(0,255);
+        randomB = random(0,255);
+        randomG = random(0,255);
+        fill(randomR,randomB,randomG);
     }
     if (bally >= height-15){
         ballSpeedy = ballSpeedy*-1
