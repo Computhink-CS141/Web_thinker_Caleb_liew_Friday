@@ -6,6 +6,8 @@ function preload(){
     popsound = loadSound("assets/pop.mp3");
 }
 // let xpos,ypos;
+let ballx,bally
+
 function setup(){
     createCanvas(500,500);
     background(0);
