@@ -15,8 +15,8 @@ function setup(){
     noStroke();
 
 }
-let ballx =300;
-let bally =300;
+let ballx =width/2;
+let bally =height/2;
 let ballSize =10;
 let ballSpeedx = 2;
 let ballSpeedy = 2;
