@@ -24,7 +24,7 @@ let ballSpeedy = 2;
 
 function draw(){
     background (0);
-    circle (ball)
+    circle (ballx,bally,ballSize)
 
 
 
