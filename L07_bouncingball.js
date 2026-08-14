@@ -32,7 +32,7 @@ function draw(){
 }
 
 function keyPressed(){
-    if (keyCode===32){
-    widthsize/2
+    if (keyCode===32);
+    widthsize/2;
 }
-}
+
