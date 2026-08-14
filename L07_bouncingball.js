@@ -61,7 +61,7 @@ function draw(){
 function keyPressed(){
     if(keyCode === UP_ARROW){
         ballSpeedx*=5
-        
+        ballSpeedy*=5
     }
 
 }
