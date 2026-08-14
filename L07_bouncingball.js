@@ -28,7 +28,7 @@ function draw(){
     }
     if (keyIsDown(UP_ARROW)){
         ypos = ypos-3;
-        widthsize*2;}
+        widthsize =widthsize*2;}
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3;
         widthsize*2;
