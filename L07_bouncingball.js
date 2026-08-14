@@ -9,7 +9,7 @@ function preload(){
 let ballx,bally
 
 function setup(){
-    createCanvas(500,500);
+    createCanvas(900,500);
     background(0);
     imageMode(CENTER);
     // xpos = width/2;
