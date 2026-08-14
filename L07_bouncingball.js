@@ -1,6 +1,12 @@
 let picoimg;
 
+function preload(){
 
+
+
+
+    
+}
 
 
 
