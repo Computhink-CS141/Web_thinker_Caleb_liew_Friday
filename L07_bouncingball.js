@@ -1,5 +1,5 @@
 let picoimg;
-let opo
+let popsound;
 
 function preload(){
     picoimg = loadSound("assets/pico-a.png");
