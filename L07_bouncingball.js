@@ -32,7 +32,7 @@ function draw(){
     if (ballx <= 0+15){
         ballSpeedx = ballSpeedx*-1
     } 
-    if (ballx >= width+15){
+    if (ballx >= width-15){
         ballSpeedx = ballSpeedx*-1
     }
     if (bally <= 0+15){
