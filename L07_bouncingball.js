@@ -29,7 +29,12 @@ function draw(){
     circle (ballx,bally,ballSize)
     ballx = ballx + ballSpeedx;
     bally = bally + ballSpeedy;
-    if ballx  5
+    if (ballx <= 0+15){
+
+
+
+        
+    } 
 
 
 
