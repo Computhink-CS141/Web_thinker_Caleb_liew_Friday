@@ -1,7 +1,7 @@
 let picoimg;
 
 function preload(){
-    
+    picoimg = loadSound()
 
 
 }
