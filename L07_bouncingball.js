@@ -21,7 +21,7 @@ bally =height/2;
 
 let ballSize =30;
 let ballSpeedx = 100;
-let ballSpeedy = 220;
+let ballSpeedy = 4000;
 let randomR,randomG,randomB;
 
 function draw(){
