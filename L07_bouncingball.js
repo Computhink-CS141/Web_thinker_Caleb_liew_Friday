@@ -31,13 +31,13 @@ function draw(){
         widthsize =55;}
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3;
-        widthsize =widthsize*2;
+        widthsize =55;
     }
 }
 
 function keyPressed(){
     if (keyCode===32) {
-    widthsize = widthsize/2;
+    widthsize = 110;
     popsound.play();
     }
 }
