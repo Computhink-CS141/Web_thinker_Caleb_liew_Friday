@@ -16,6 +16,11 @@ function setup(){
 
 }
 let ballx =300
+let bally =300
+
+
+
+
 
 function draw(){
     print( ballx)
