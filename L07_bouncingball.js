@@ -24,11 +24,11 @@ function draw(){
     }
     if (keyIsDown(LEFT_ARROW)){
         xpos = xpos-3;
-        widthsize = widthsize*2;
+        widthsize = 55;
     }
     if (keyIsDown(UP_ARROW)){
         ypos = ypos-3;
-        widthsize =widthsize*2;}
+        widthsize =55;}
     if (keyIsDown(DOWN_ARROW)){
         ypos = ypos+3;
         widthsize =widthsize*2;
