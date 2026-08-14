@@ -13,6 +13,7 @@ function setup(){
     xpos = width/2;
     ypos = height/2;
 }
+let wigthsize;
 
 function draw(){
     background(0);
