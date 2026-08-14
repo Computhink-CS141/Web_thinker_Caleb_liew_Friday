@@ -23,7 +23,7 @@ let ballSpeedy = 2;
 
 
 function draw(){
-    
+    background (0);
 
 
 
