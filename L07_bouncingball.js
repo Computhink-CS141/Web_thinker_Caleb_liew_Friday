@@ -12,8 +12,8 @@ function setup(){
     createCanvas(500,500);
     background(0);
     imageMode(CENTER);
-    xpos = width/2;
-    ypos = height/2;
+    // xpos = width/2;
+    // ypos = height/2;
     noStroke();
 ballx =width/2;
 bally =height/2;
@@ -27,7 +27,7 @@ let ballSpeedy = 2;
 function draw(){
     background (0);
     circle (ballx,bally,ballSize)
-
+    ballx = ballx - 
 
 
 
