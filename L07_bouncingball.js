@@ -29,7 +29,7 @@ function draw(){
     circle (ballx,bally,ballSize)
     ballx = ballx + ballSpeedx;
     bally = bally + ballSpeedy;
-
+    if ballx  5
 
 
 
