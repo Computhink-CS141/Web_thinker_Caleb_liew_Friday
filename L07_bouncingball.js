@@ -30,7 +30,7 @@ function draw(){
     ballx = ballx + ballSpeedx;
     bally = bally + ballSpeedy;
     if (ballx <= 0+15){
-        ballSpeedx = 
+        ballSpeedx = ballSpeedx*-1
     } 
 
 
