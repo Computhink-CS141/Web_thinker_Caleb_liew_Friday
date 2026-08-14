@@ -20,8 +20,8 @@ bally =height/2;
 }
 
 let ballSize =30;
-let ballSpeedx = 2;
-let ballSpeedy = 20;
+let ballSpeedx = 220;
+let ballSpeedy = 220;
 let randomR,randomG,randomB;
 
 function draw(){
