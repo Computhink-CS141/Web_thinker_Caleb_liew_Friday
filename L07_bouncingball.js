@@ -16,8 +16,9 @@ function setup(){
 
 }
 let ballx =300
-print( ballx)
-draw()
+
+function draw(){
+    print( ballx)
 
 
 
@@ -51,9 +52,9 @@ draw()
 
 
 
+}
 
-
-
+// Recap 1
 
 // let widthsize;
 // widthsize = 110
