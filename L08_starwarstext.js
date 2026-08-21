@@ -1,6 +1,6 @@
 let BGM;
 function preload(){
-    BGM = loadSound()
+    BGM = loadSound("assets/")
 
 
 }
