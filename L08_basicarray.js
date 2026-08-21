@@ -6,7 +6,7 @@ function setup(){
 
 function draw(){
 background("grey");
-fill("black");
+fill("white");
 textSize();
 text("My name is Caleb.",50,50);
 text("I am 12 years old this year.",50,100);
