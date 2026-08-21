@@ -11,7 +11,7 @@ let ypos= 50;
 for (let count = 0;count < foodlist.length;count++){
     textSize(30);
     text(foodlist[count],10,ypos);
-    ypos=ypos+50
+    ypos=ypos+50;
 }
 
 // fill("white");
