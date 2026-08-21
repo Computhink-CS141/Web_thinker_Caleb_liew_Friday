@@ -26,7 +26,7 @@ ypos = yscroll;
 
 for (let count = 0; count<6; count++){
     fill("yellow");
-    textSize(50);
+    textSize(38);
     text(storytext[count],width/2,ypos)
     ypos = ypos -50;
 }
