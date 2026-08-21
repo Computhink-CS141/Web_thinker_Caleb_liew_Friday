@@ -3,6 +3,7 @@ function preload(){
     BGM = loadSound("assets/star_wars_theme_8_bit.mp3");
 }
 
+let yscroll;
 function setup(){
     createCanvas(600,400);
     background("black");
@@ -21,7 +22,7 @@ let storytext=[
 ]
 
 for (let count = 1; count<6; count++){
-    
+
 }
 
 
