@@ -27,8 +27,8 @@ background("black")
 for (let count = 0; count<6; count++){
     fill("yellow");
     textSize(50);
-    text(storytext[count],width/2,yscroll)
-    
+    text(storytext[count],width/2,ypos)
+    ypos = ypos -50
 }
 yscroll-=0.6;
 
