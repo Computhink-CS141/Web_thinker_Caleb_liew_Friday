@@ -12,6 +12,7 @@ function draw(){
 background("grey");
 
 // Task 2
+fill("black")
 text("Moving text",width/2,ypos)
 
 yscroll-= 0.6;
