@@ -23,7 +23,8 @@ let storytext=[
 ]
 
 for (let count = 1; count<6; count++){
-    t
+    text()
+    
 }
 
 
