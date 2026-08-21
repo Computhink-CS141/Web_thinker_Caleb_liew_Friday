@@ -9,11 +9,7 @@ function setup(){
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
-}
-
-function draw(){
-background("black")
-let storytext=[
+    let storytext=[
 "A long time ago in a Galaxy far,",
 "far away..." , 
 "THE BEGINNING",
@@ -21,6 +17,11 @@ let storytext=[
 "Students have begun their journey" ,
 "into the world of..."
 ]
+}
+
+function draw(){
+background("black")
+
 
 for (let count = 0; count<6; count++){
     fill("yellow");
