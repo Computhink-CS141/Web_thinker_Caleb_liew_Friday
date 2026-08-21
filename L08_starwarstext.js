@@ -32,7 +32,11 @@ for (let count = 0; count<6; count++){
 }
 yscroll-=0.6;
 
-if (yscroll<0){}
+if (yscroll<0){
+    yscroll = height;
+
+
+}
 
 }
 
