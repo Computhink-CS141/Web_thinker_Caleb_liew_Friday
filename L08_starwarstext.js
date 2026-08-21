@@ -9,7 +9,7 @@ function setup(){
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
-    let storytext=[
+let storytext=[
 "A long time ago in a Galaxy far,",
 "far away..." , 
 "THE BEGINNING",
