@@ -24,7 +24,7 @@ let storytext=[
 
 for (let count = 1; count<6; count++){
     text()
-    
+    yscroll-=0.6;
 }
 
 
