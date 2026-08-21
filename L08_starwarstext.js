@@ -17,12 +17,12 @@ function setup(){
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
-    ypos = height
+    
 }
 
 function draw(){
 background("black")
-
+ypos = yscroll;
 
 for (let count = 0; count<6; count++){
     fill("yellow");
