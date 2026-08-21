@@ -7,7 +7,7 @@ let yscroll;
 function setup(){
     createCanvas(600,400);
     background("black");
-    textAllign(CENTER,CENTER);
+    textAlign(CENTER,CENTER);
     yscroll = height;
 }
 
