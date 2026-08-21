@@ -1,6 +1,6 @@
 let BGM;
 function preload(){
-    BGM = loadSound("assets/")
+    BGM = loadSound("assets/star_wars_theme_")
 
 
 }
