@@ -1,9 +1,11 @@
 
 let ypos;
+
 function setup(){
     createCanvas(500,600);
     background("grey");
     textAlign(CENTER,CENTER);
+    
 }
 
 function draw(){
