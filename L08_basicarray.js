@@ -8,6 +8,6 @@ function draw(){
 background("grey");
 fill("black");
 textsize();
-text("")
+text("My name is Caleb",)
 }
 
