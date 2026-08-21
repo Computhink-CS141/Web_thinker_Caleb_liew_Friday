@@ -2,7 +2,7 @@
 function setup(){
     createCanvas(500,600);
     background("grey");
-    textAlign(RIGHT,BOTTOM);
+    textAlign(CENTER,CENTER);
 }
 
 function draw(){
