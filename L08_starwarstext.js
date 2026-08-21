@@ -13,7 +13,7 @@ function preload(){
 let ypos;
 let yscroll;
 function setup(){
-    createCanvas(600,400);
+    createCanvas(700,800);
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
