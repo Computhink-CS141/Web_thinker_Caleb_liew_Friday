@@ -21,7 +21,7 @@ let storytext=[
 "Students have begun their journey" ,
 "into the world of..."
 ]
-yscroll = yscroll -50
+yscroll = ypos -50
 for (let count = 0; count<6; count++){
     fill("yellow");
     textSize(50);
