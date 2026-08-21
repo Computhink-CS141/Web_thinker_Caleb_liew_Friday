@@ -12,11 +12,11 @@ function setup(){
 function draw(){
 background("black")
 let storytext=["A long time ago in a Galaxy far,",
-    "far away..." , 
-    "THE BEGINNING",
-    "It is a period of learning...", 
-    "Students have begun their journey" ,
-    "into the world of..."]
+"far away..." , 
+"THE BEGINNING",
+"It is a period of learning...", 
+"Students have begun their journey" ,
+"into the world of..."]
 
 
 }
