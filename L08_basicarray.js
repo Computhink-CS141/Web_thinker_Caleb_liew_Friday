@@ -5,14 +5,7 @@ function setup(){
 }
 
 function draw(){
-background("")
-
-
-
+background("black");
 
 }
-
-
-
-
 
