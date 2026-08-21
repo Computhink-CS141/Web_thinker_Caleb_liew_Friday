@@ -1,4 +1,5 @@
 
+let ypos;
 function setup(){
     createCanvas(500,600);
     background("grey");
@@ -7,7 +8,7 @@ function setup(){
 
 function draw(){
 background("grey");
-let ypos;
+
 // Task 2
 text("Moving text",width/2,ypos)
 
