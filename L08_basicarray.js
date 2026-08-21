@@ -1,6 +1,6 @@
 
 function setup(){
-    backgroun
+    createCanvas()
 
 
 
