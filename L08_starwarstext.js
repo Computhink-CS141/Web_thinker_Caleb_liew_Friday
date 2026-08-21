@@ -8,3 +8,9 @@ function setup(){
     background("black");
     textAllign(CENTER,CENTER);
 }
+
+function draw(){
+
+
+
+})
