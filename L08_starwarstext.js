@@ -11,6 +11,6 @@ function setup(){
 
 function draw(){
     background("black")
-    let storytext
+    let storytext=[]
 
 }
