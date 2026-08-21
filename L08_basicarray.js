@@ -11,8 +11,8 @@ let foodlist=["Hamburger","Fries","Ice cream","Milo","Coke"];
 let ypos= height-20;
 for (let count = 0;count < foodlist.length;count++){
     textSize(30);
-    text(count+1 + ". " + foodlist[count],width/2,ypos);
-    ypos=ypos-50;
+    // text(count+1 + ". " + foodlist[count],width/2,ypos);
+    // ypos=ypos-50;
     // print(foodlist[count])
 
 }
