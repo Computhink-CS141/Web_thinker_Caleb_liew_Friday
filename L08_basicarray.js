@@ -5,7 +5,7 @@ function setup(){
     createCanvas(500,600);
     background("grey");
     textAlign(CENTER,CENTER);
-    ypos = height;
+    yscroll = height;
 }
 
 function draw(){
@@ -14,7 +14,7 @@ background("grey");
 // Task 2
 text("Moving text",width/2,ypos)
 
-
+yscroll-= 0.6;
 
 
 
