@@ -13,7 +13,7 @@ function preload(){
 let ypos;
 let yscroll;
 function setup(){
-    createCanvas(700,800);
+    createCanvas(700,600);
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
@@ -33,3 +33,5 @@ for (let count = 0; count<6; count++){
 yscroll-=0.6;
 
 }
+
+
