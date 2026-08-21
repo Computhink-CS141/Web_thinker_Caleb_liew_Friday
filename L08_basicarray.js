@@ -8,6 +8,9 @@ function draw(){
 background("grey");
 fill("black");
 textsize();
-text("My name is Caleb",)
+text("My name is Caleb",50,50);
+text("My name is Caleb",50,50);
+text("My name is Caleb",50,50);
+
 }
 
