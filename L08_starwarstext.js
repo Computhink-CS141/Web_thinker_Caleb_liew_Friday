@@ -22,7 +22,7 @@ let storytext=[
 "into the world of..."
 ]
 
-for (let count = 1; count<6; count++){
+for (let count = 0; count<6; count++){
     text(storytext[count],width/2,yscroll)
     yscroll-=0.6;
 }
