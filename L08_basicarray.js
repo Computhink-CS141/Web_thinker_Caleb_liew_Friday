@@ -9,7 +9,7 @@ function draw(){
 background("grey");
 
 // Task 2
-text("Moving text,")
+text("Moving text",width/2,)
 
 
 
