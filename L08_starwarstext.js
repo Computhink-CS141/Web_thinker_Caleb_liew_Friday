@@ -11,6 +11,6 @@ function setup(){
 
 function draw(){
     background("black")
-    let storytext=["A long time ago in a Galaxy far,","far away..." , "THE BEGINNING","It is a period of learning...", "" ]
+    let storytext=["A long time ago in a Galaxy far,","far away..." , "THE BEGINNING","It is a period of learning...", "students have beg" ]
 
 }
