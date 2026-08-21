@@ -8,6 +8,7 @@ function setup(){
     createCanvas(600,400);
     background("black");
     textAllign(CENTER,CENTER);
+    yscroll = height;
 }
 
 function draw(){
@@ -22,7 +23,7 @@ let storytext=[
 ]
 
 for (let count = 1; count<6; count++){
-
+    t
 }
 
 
