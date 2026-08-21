@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
 background("grey");
-ypos
+let ypos;
 // Task 2
 text("Moving text",width/2,ypos)
 
