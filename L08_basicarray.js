@@ -14,6 +14,7 @@ for (let count = 0;count < foodlist.length;count++){
     text(count+1 + "." + foodlist[count],width/2,ypos);
     ypos=ypos-50;
     // print(foodlist[count])
+
 }
 
 // fill("white");
