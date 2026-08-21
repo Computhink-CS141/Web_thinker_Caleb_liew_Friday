@@ -17,7 +17,7 @@ function setup(){
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
-
+    ypos = height
 }
 
 function draw(){
