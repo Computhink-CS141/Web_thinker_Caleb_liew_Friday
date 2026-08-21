@@ -20,7 +20,9 @@ let storytext=[
 "into the world of..."
 ]
 
-for (let count = 1; count<6; count++);
+for (let count = 1; count<6; count++){
+    
+}
 
 
 }
