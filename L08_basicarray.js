@@ -4,7 +4,13 @@ function setup(){
     background("black");
 }
 
-function draw()
+function draw(){
+background("")
+
+
+
+
+}
 
 
 
