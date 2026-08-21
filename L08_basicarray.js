@@ -6,7 +6,7 @@ function setup(){
 
 function draw(){
 background("grey");
-let foodlist=["Hamburger","Fries","Ice cream","Milo",""];
+let foodlist=["Hamburger","Fries","Ice cream","Milo","Coke",""];
 let ypos= 50;
 for (let count = 0;count < foodlist.length;count++){
     textSize(30);
