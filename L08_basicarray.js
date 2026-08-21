@@ -1,11 +1,11 @@
 
 function setup(){
     createCanvas(500,600);
-    background("black");
+    background("grey");
 }
 
 function draw(){
-background("black");
+background("grey");
 
 }
 
