@@ -9,7 +9,7 @@ background("grey");
 let foodlist=["Hamburger","Fries","Ice cream"];
 let ypos= 50;
 for (let count = 0;count < foodlist.length;count++){
-    print()
+    text()
 
 }
 
