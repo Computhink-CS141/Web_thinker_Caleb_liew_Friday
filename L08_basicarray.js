@@ -6,6 +6,8 @@ function setup(){
 
 function draw(){
 background("grey");
+
+
 // fill("white");
 // textSize();
 // text("My name is Caleb.",50,50);
