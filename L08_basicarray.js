@@ -13,7 +13,7 @@ background("grey");
 
 // Task 2
 fill("black")
-text("Moving text",width/2,ypos)
+text("Moving text",width/2,yscroll)
 
 yscroll-= 0.6;
 
