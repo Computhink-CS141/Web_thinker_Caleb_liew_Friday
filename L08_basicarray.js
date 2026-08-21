@@ -1,5 +1,5 @@
 
-let ypos;
+let yscroll;
 
 function setup(){
     createCanvas(500,600);
@@ -14,7 +14,7 @@ background("grey");
 // Task 2
 text("Moving text",width/2,ypos)
 
-ypos
+
 
 
 
