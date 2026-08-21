@@ -1,6 +1,6 @@
-
+let BGM;
 function preload(){
-
-
     
+
+
 }
