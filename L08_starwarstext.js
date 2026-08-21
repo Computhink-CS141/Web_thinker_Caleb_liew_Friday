@@ -15,7 +15,7 @@ function draw(){
         "far away..." , 
         "THE BEGINNING",
         "It is a period of learning...", 
-        "Students have begun their journey" ,
+    "Students have begun their journey" ,
     "into the world of..."]
 
 }
