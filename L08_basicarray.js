@@ -6,7 +6,7 @@ function setup(){
 
 function draw(){
 background("grey");
-let foodlist=[""]
+let foodlist=["Hamburger",""]
 
 // fill("white");
 // textSize();
