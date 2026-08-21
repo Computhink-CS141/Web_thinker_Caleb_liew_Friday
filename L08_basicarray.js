@@ -6,6 +6,7 @@ function setup(){
 
 function draw(){
 background("grey");
+fill("black");
 
 }
 
