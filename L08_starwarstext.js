@@ -1,3 +1,11 @@
+let storytext=[
+"A long time ago in a Galaxy far,",
+"far away..." , 
+"THE BEGINNING",
+"It is a period of learning...", 
+"Students have begun their journey" ,
+"into the world of..."
+]
 let BGM;
 function preload(){
     BGM = loadSound("assets/star_wars_theme_8_bit.mp3");
@@ -9,14 +17,7 @@ function setup(){
     background("black");
     textAlign(CENTER,CENTER);
     yscroll = height;
-let storytext=[
-"A long time ago in a Galaxy far,",
-"far away..." , 
-"THE BEGINNING",
-"It is a period of learning...", 
-"Students have begun their journey" ,
-"into the world of..."
-]
+
 }
 
 function draw(){
