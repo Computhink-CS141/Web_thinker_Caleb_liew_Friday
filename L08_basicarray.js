@@ -13,6 +13,9 @@ background("grey");
 
 
 
+
+
+
 // let foodlist=["Hamburger","Fries","Ice cream","Milo","Coke"];
 // let ypos= height-20;
 // for (let count = 0;count < foodlist.length;count++){
