@@ -8,7 +8,7 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    let h
+    let hour,minute,second, 
 
 
 
