@@ -1,7 +1,7 @@
 
 function setup(){
+    background("grey");
     
-
 
 }
 
