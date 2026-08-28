@@ -13,7 +13,7 @@ function draw(){
     background("grey");
     textSize(25);
     text("bounce",xpos,height/2);
-    xpos = xpos*0.5;
+    xpos = xpos+0.5;
 
 }
 
