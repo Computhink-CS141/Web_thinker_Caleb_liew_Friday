@@ -5,6 +5,8 @@ function setup(){
     createCanvas(500,500);
     background("grey");
     textAlign(CENTER,CENTER);
+    xpos = width/2
+
 }
 
 function draw(){
