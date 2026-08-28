@@ -2,12 +2,12 @@
 function setup(){
     createCanvas(500,500);
     background("grey");
-    textAllign()
+    textAllign(LEFT,TOP);
 }
 
 function draw(){
     background("grey");
-    te
+    text()
 
 }
 
