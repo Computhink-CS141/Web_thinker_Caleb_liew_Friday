@@ -11,17 +11,21 @@ function setup(){
 
 function draw(){
     background("grey");
-    textSize(50);
-    text("bounce",xpos,height/2);
-    text("bounce",xpos+10,(height/2)-50);
-    text("bounce",xpos-10,(height/2)+50);
-    xpos = xpos+speed;
 
-    if (xpos > width-78){
-        speed = speed*-1;
-    }
-    if (xpos < 78){
-        speed = speed*-1;
-    }
+
+
+
+    // textSize(50);
+    // text("bounce",xpos,height/2);
+    // text("bounce",xpos+10,(height/2)-50);
+    // text("bounce",xpos-10,(height/2)+50);
+    // xpos = xpos+speed;
+
+    // if (xpos > width-78){
+    //     speed = speed*-1;
+    // }
+    // if (xpos < 78){
+    //     speed = speed*-1;
+    // }
 }
 
