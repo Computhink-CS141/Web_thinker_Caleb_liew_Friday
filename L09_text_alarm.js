@@ -11,9 +11,11 @@ function setup(){
 
 function draw(){
     background("grey");
-    textSize(25);
+    textSize(50);
     text("bounce",xpos,height/2);
     xpos = xpos+0.5;
 
+
+    
 }
 
