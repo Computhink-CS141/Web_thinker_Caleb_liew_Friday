@@ -11,7 +11,7 @@ function draw(){
     let xhour = nf(hour,1,1);
     let xminute = nf(minute,1,1);
     let xsecond = nf(second,1,1);
-    let timeString = xhour + ""
+    let timeString = xhour + ":" + xminute
 
 
 }
