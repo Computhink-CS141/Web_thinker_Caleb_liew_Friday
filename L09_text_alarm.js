@@ -6,11 +6,11 @@ function setup(){
     background("grey");
     textAlign(CENTER,CENTER);
     xpos = width/2;
-    speed = 97;
+    speed = 90;
 }
 
 function draw(){
-    // background("grey");
+    background("grey");
     textSize(50);
     text("bounce",xpos,height/2);
     xpos = xpos+speed;
