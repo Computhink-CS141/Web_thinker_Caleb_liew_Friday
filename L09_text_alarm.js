@@ -8,8 +8,8 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    let hour , minute , second
-    let timeString = "fakeclock
+    let hour , minute , second;
+    let timeString = "fakeclock";
 
 
 }
