@@ -3,7 +3,7 @@
 function setup(){
     createCanvas(400,200);
     background("skyblue");
-
+    textAlign(CENTER,CENTeR)
 }
 
 
