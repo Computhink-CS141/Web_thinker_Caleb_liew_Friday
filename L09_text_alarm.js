@@ -6,7 +6,7 @@ function setup(){
     background("grey");
     textAlign(CENTER,CENTER);
     xpos = width/2;
-    speed = 200000;
+    speed = 2000;
 }
 
 function draw(){
