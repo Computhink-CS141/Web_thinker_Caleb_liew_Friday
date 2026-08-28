@@ -1,10 +1,26 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Task 1   -----------------------------------------
 // let speed , xpos;
 
-function setup(){
-    createCanvas(500,500);
-    background("grey");
-    textAlign(CENTER,CENTER);
+// function setup(){
+    // createCanvas(500,500);
+    // background("grey");
+    // textAlign(CENTER,CENTER);
     
     // xpos = width/2;
     // speed = 5;
@@ -24,5 +40,5 @@ function setup(){
     // if (xpos < 78){
     //     speed = speed*-1;
     // }
-}
+// }
 
