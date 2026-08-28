@@ -7,7 +7,7 @@ function setup(){
 
 function draw(){
     background("grey");
+    te
 
-    
 }
 
