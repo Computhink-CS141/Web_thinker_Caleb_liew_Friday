@@ -7,9 +7,9 @@ function setup(){
 
 function draw(){
     background("grey");
-    t
+    textSize(25);
     text("bounce");
-
+    
 
 }
 
