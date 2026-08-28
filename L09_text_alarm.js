@@ -7,7 +7,9 @@ function setup(){
 
 function draw(){
     background("grey");
-    text()
+    t
+    text("bounce");
+
 
 }
 
