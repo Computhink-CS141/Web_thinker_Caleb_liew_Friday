@@ -10,7 +10,7 @@ function draw(){
     background("skyblue");
     let xhour = nf(hour(),10);
     let xminute = nf(minute(),10);
-    let xsecond = nf(second(),2);
+    let xsecond = nf(second(),10);
     let timeString = xhour + ":" + xminute + ":" + xsecond;
     textSize(50);
     text(timeString,width/2,height/2);
