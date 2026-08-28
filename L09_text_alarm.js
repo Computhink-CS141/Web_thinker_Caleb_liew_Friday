@@ -1,5 +1,5 @@
 
-let speed , xpos;
+// let speed , xpos;
 
 function setup(){
     createCanvas(500,500);
