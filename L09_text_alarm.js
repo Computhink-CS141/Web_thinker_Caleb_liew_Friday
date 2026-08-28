@@ -5,8 +5,9 @@ function setup(){
     createCanvas(500,500);
     background("grey");
     textAlign(CENTER,CENTER);
-    xpos = width/2;
-    speed = 5;
+    
+    // xpos = width/2;
+    // speed = 5;
 }
 
 function draw(){
@@ -15,7 +16,9 @@ function draw(){
 
 
 
-    
+
+
+
     // Recap 1 -------------------------------------------------------
 
     // textSize(50);
