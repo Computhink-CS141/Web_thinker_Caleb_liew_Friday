@@ -8,11 +8,11 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    let xhour = nf(hour(),1,1);
-    let xminute = nf(minute(),1,1);
-    let xsecond = nf(second(),1,1);
+    let xhour = nf(hour(),1);
+    let xminute = nf(minute(),1);
+    let xsecond = nf(second(),1);
     let timeString = xhour + ":" + xminute + ":" + xsecond;
-
+    textSize(50);
     text(timeString,width/2,height/2);
 
 }
