@@ -8,8 +8,8 @@ function setup(){
 function draw(){
     background("grey");
     textSize(25);
-    text("bounce");
-    
+    text("bounce",height/2);
+
 
 }
 
