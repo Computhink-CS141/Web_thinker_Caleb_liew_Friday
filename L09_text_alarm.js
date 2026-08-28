@@ -10,7 +10,7 @@ function draw(){
     background("skyblue");
     let hour = nf(hour,1,1);
     let minute = nf(miute,1,1);
-    let second = mf(second,1,1);
+    let second = nf(second,1,1);
     let timeString = "fakeclock";
 
 
