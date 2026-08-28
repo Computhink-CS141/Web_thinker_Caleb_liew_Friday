@@ -13,7 +13,7 @@ function draw(){
     let xsecond = nf(second,1,1);
     let timeString = xhour + ":" + xminute + ":" + xsecond;
 
-    text
+    text(timestring)
 
 }
 
