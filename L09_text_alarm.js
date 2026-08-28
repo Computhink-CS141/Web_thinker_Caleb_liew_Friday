@@ -7,8 +7,8 @@ function setup(){
 }
 
 function draw(){
-    background("sk")
-
+    background("skyblue");
+    let h
 
 
 
