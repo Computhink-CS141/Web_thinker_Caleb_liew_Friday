@@ -8,8 +8,8 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    let xhour = nf(hour(),2);
-    let xminute = nf(minute(),2);
+    let xhour = nf(hour(),10);
+    let xminute = nf(minute(),10);
     let xsecond = nf(second(),2);
     let timeString = xhour + ":" + xminute + ":" + xsecond;
     textSize(50);
