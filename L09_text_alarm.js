@@ -8,7 +8,9 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    let hour , minute , second;
+    let hour = mf(hour,1,1);
+    let minute = mf(hour,1,1);
+    let second = mf(hour,1,1);
     let timeString = "fakeclock";
 
 
