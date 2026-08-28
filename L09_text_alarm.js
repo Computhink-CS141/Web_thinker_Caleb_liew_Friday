@@ -15,7 +15,7 @@ function draw(){
     text("bounce",xpos,height/2);
     xpos = xpos+0.5;
 
-
     
+
 }
 
