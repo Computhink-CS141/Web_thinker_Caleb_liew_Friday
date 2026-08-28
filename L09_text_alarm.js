@@ -8,7 +8,7 @@ function setup(){
 function draw(){
     background("grey");
     textSize(25);
-    text("bounce",height/2);
+    text("bounce",width/2,height/2);
 
 
 }
