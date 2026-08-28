@@ -6,7 +6,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 }
 
-
+function draw(){}
 
 
 
