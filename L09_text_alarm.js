@@ -18,7 +18,7 @@ function draw(){
     if (xpos > width){
         speed = speed*-1;
     }
-    if (xpos < 30){
+    if (xpos < 35){
         speed = speed*-1;
     }
 }
