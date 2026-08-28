@@ -1,7 +1,7 @@
 
 
 function setup(){
-    createCanvas(400,200);
+    createCanvas(500,500);
     background("skyblue");
     textAlign(CENTER,CENTER);
 }
