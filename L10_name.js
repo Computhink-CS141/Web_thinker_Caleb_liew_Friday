@@ -17,7 +17,7 @@ function draw(){
     text(usertext,width/2,height/2);
 
     textSize(14);
-    text("enter")
+    text("enter text here",)
 
 }
 function updateText(){
