@@ -39,7 +39,7 @@ function countDown(){
     
     }else{
         clearInterval(timer);
-        alarm
+        alarmTimer = setInterval()
     }
 }
 
