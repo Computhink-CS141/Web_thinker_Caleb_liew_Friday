@@ -6,6 +6,7 @@ function setup(){
     background(220);
     textAlign(CENTER,CENTER);
     input= createInput("");
+    
 }
 
 function draw(){
