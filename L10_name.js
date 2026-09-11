@@ -2,7 +2,7 @@
 let colorpicker;
 function setup(){
     createCanvas(400,400);
-    colorpicker = cteatecolorpicker
+    colorpicker = cteatecolorpicker("#000")
 }
 
 
