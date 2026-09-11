@@ -21,7 +21,7 @@ function draw(){
     textSize(24);
     text(usertext,width/2,height/2);
     textSize(24);
-    text(agetext,width/2,height/2);
+    text(agetext,width/2,230);
     textSize(14);
     text("Enter name here:",140,312)
 
