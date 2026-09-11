@@ -51,7 +51,7 @@ function draw(){
     text("Rectangle color:",143,405)
 
     textSize(14);
-    text("Text color:",143,430)
+    text("Text color:",143,435)
 }
 function updateText(){
     usertext = this.value();
