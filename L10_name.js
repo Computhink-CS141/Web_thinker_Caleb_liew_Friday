@@ -48,7 +48,7 @@ function draw(){
     text("Background color:",143,375)
 
     textSize(14);
-    text("Rectangle color:",143,400)
+    text("Rectangle color:",143,405)
 
     textSize(14);
     text("Text color:",143,430)
