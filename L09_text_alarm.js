@@ -20,7 +20,7 @@ function setup(){
 function mousePressed(){
     countdown=5;
     clearInterval(timer);
-    timer=setInterval(timer,1000);
+    timer=setInterval(countDown,1000);
 
 }
 
