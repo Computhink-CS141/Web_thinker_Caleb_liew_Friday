@@ -12,7 +12,7 @@ function setup(){
     colorpicker.position(200,360);
     
     rectcolor = createColorPicker("#ffffff");
-    rectcolor.position(200,360);
+    rectcolor.position(200,390);
 
     input= createInput("");
     input.position(width/2,300);
@@ -27,6 +27,7 @@ function draw(){
     background(colorpicker.value());
     fill(rectcolor.value());
     rect(40,90,320,180)
+    fill()
     textSize(24);
     text(usertext,width/2,150);
     
