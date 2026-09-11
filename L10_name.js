@@ -1,6 +1,9 @@
 
 let colorpicker;
+function setup(){
+    cre
 
+}
 
 
 
