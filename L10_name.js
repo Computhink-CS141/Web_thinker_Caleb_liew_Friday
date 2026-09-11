@@ -11,7 +11,7 @@ function setup(){
     input.position(width/2,300);
     input.input(updateText);
     ageinput= createInput("");
-    ageinput.position(width/2,300);
+    ageinput.position(width/2,330);
     ageinput.input(updateText);
 }
 
