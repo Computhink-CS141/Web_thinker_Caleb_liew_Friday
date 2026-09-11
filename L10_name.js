@@ -3,6 +3,7 @@ let agetext = "AGE"
 let input;
 let ageinput;
 let colorpicker;
+rectcolor
 function setup(){
     createCanvas(400,600);
     textAlign(CENTER,CENTER);
