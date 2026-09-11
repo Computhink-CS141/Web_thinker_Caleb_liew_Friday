@@ -2,7 +2,7 @@
 let colorpicker;
 function setup(){
     createCanvas(400,400);
-    colorpicker = cteatecolorpicker("#8a2727")
+    colorpicker = createcolorpicker("#8a2727")
     colorpicker.postion(300,300);
 }
 
