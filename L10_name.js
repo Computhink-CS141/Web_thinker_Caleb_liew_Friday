@@ -1,7 +1,7 @@
 
 let colorpicker;
 function setup(){
-    cre
+    createCanvas(400,400);
 
 }
 
