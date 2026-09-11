@@ -12,8 +12,9 @@ function setup(){
     createCanvas(400,400);
     background(220);
     textAlign(CENTER);
-    
-}function draw(){
+    bgcolor= color()
+}
+function draw(){
     background(220);
     fill(0);
     textSize(60);
