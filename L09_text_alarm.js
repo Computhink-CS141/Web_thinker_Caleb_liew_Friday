@@ -11,7 +11,7 @@ function setup(){
     textSize(20);
     text(countdown,200,200);
 
-    textSize(200);
+    textSize(20);
     text("Click me to start the timer",200,200);
 
 
