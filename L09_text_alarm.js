@@ -8,11 +8,11 @@ function setup(){
 }function draw(){
     background(220);
     fill(0);
-    textSize(20);
+    textSize(60);
     text(countdown,200,200);
 
     textSize(20);
-    text("Click me to start the timer",200,200);
+    text("Click me to start the timer",200,300);
 
 
 }
