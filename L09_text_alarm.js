@@ -18,7 +18,7 @@ function setup(){
 }
 
 function mousePressed(){
-
+    countdown=5;
 
 
 }
