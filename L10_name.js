@@ -31,6 +31,16 @@ function draw(){
     textSize(14);
     text("Enter age here:",143,342)
 }
+function updateText(){
+    usertext = this.value();
+    
+
+}
+function updateageText(){
+    agetext = this.value();
+    
+
+}
 
 
 
@@ -54,28 +64,28 @@ function setup(){
     // ageinput.input(updateageText);
 }
 
-function draw(){
-    background(220);
+// function draw(){
+    // background(220);
     fill(0);
-    textSize(24);
-    text(usertext,width/2,height/2);
+//     textSize(24);
+//     text(usertext,width/2,height/2);
     
-    textSize(24);
-    text(agetext,width/2,230);
+//     textSize(24);
+//     text(agetext,width/2,230);
     
-    textSize(14);
-    text("Enter name here:",140,312)
+//     textSize(14);
+//     text("Enter name here:",140,312)
 
-    textSize(14);
-    text("Enter age here:",143,342)
-}
-function updateText(){
-    usertext = this.value();
-    
-
-}
-function updateageText(){
-    agetext = this.value();
+//     textSize(14);
+//     text("Enter age here:",143,342)
+// }
+// function updateText(){
+//     usertext = this.value();
     
 
-}
+// }
+// function updateageText(){
+//     agetext = this.value();
+    
+
+// }
