@@ -31,8 +31,6 @@ function countDown(){
     }else{
         clearInterval(timer);
     }
-
-
 }
 
 
