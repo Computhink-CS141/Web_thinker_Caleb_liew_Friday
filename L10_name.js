@@ -48,10 +48,10 @@ function draw(){
     text("Background color:",143,375)
 
     textSize(14);
-    text("Rectangle color:",143,375)
+    text("Rectangle color:",143,400)
 
     textSize(14);
-    text("Text color:",143,375)
+    text("Text color:",143,415)
 }
 function updateText(){
     usertext = this.value();
