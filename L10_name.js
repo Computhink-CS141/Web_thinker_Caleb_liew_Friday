@@ -13,7 +13,7 @@ function draw(){
     background(220);
     fill(0);
     textSize(24);
-    text(usertext,width/2,height/2);
+    text(usertext,150,height/2);
 
 
 }
