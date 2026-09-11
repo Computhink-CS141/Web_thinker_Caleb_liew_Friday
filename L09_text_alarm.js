@@ -21,7 +21,7 @@ function draw(){
     let xminute=nf(minute(),2);
     let xhour=nf(hour(),2);
     let timestring=(xhour + ":" + xminute + ":" + xsecond);
-    text(timestring,100,100)
+    text(timestring,100,100);
     background(bgcolor);
     fill(0);
     textSize(60);
