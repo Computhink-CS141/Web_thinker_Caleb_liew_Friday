@@ -7,7 +7,7 @@ function setup(){
 }
 
 function draw(){
-    background(colorpicker.value());
+    background(colorPicker.value());
 
 
 }
