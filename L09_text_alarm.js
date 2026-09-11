@@ -1,4 +1,4 @@
-
+let countdowm = 5;
 function setup(){
     createCamvas(400,400);
     background(220);
