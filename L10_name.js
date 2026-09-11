@@ -15,7 +15,7 @@ function setup(){
     rectcolor = createColorPicker("#ffffff");
     rectcolor.position(200,390);
 
-    textcolor = createColorPicker("#ffffff");
+    textcolor = createColorPicker("#030303");
     textcolor.position(200,410);
 
     input= createInput("");
