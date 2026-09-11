@@ -12,11 +12,15 @@ function setup(){
 
     textSize(200);
     text("Click me to start the timer",200,200);
-    
+
 
 }
 
+function mousePressed(){
 
+
+    
+}
 
 
 
