@@ -32,8 +32,8 @@ function draw(){
     textSize(14);
     text("Enter age here:",143,342)
 
-        textSize(14);
-    text("Enter age here:",143,342)
+    textSize(14);
+    text("Enter color here:",143,342)
 }
 function updateText(){
     usertext = this.value();
