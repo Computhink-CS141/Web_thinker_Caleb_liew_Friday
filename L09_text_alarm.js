@@ -1,8 +1,8 @@
 
 function setup(){
     createCamvas(400,400)
-    background(220)
-
+    background(220);
+    textAlign()
 }
 
 
