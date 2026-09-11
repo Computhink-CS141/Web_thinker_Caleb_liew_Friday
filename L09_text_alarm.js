@@ -1,7 +1,7 @@
 
 let alarmSound;
 function preload(){
-al
+    alarmSound = la
 
 }
 
