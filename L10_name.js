@@ -11,8 +11,8 @@ function setup(){
     colorpicker = createColorPicker("#8a2727")
     colorpicker.position(200,360);
     
-    colorpicker = createColorPicker("#8a2727")
-    colorpicker.position(200,360);
+    rectpicker = createColorPicker("#8a2727")
+    recpicker.position(200,360);
 
     input= createInput("");
     input.position(width/2,300);
