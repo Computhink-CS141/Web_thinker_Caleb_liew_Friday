@@ -1,6 +1,6 @@
 
-let usertext = "ENTER YOUR TEXT HERE";
-let agetext = ""
+let usertext = "ENTER YOUR NAME HERE";
+let agetext = "age"
 let input;
 function setup(){
     createCanvas(400,400);
