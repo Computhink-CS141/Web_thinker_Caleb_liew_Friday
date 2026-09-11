@@ -34,3 +34,8 @@ function updateText(){
     
 
 }
+function updateageText(){
+    usertext = this.value();
+    
+
+}
