@@ -7,7 +7,7 @@ function setup(){
     background(220);
     FileList(0);
     textSize(60);
-    te
+    text()
 }
 
 
