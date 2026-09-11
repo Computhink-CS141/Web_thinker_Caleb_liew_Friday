@@ -28,6 +28,9 @@ function countDown(){
     if (countdown> 0 ){
         countdown--;
     
+    }else{
+        
+
     }
 
 
