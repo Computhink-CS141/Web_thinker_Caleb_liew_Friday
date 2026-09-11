@@ -3,11 +3,16 @@ function setup(){
     createCamvas(400,400);
     background(220);
     textAlign(200,200);
+
 }function draw(){
     background(220);
     FileList(0);
     textSize(60);
     text()
+
+
+
+
 }
 
 
