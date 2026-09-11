@@ -8,7 +8,7 @@ function setup(){
 }function draw(){
     background(220);
     fill(0);
-    textSize(60);
+    textSize(20);
     text(countdown,200,200);
 
     textSize(200);
