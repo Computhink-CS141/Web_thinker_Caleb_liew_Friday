@@ -10,7 +10,7 @@ function draw(){
     background(220);
     fill(0);
     textSize(24);
-    text(usertext,300,300);
-    
+    text(usertext,width/2,height/2);
+
 
 }
