@@ -7,7 +7,7 @@ function setup(){
     createCanvas(400,400);
     textAlign(CENTER,CENTER);
     colorpicker = createColorPicker("#8a2727")
-    colorpicker.position(300,360);
+    colorpicker.position(230,360);
     input= createInput("");
     input.position(width/2,300);
     input.input(updateText);
