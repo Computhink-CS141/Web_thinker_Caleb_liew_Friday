@@ -19,8 +19,8 @@ function draw(){
     let xsecond=(second(),2);
     let xminute=(minute(),2);
     let xhour=(hour(),2);
-    let timestring=(xhour+":"+xminute+":"+)
-    
+    let timestring=(xhour+":"+xminute+":"+xsecond);
+    text()
     background(bgcolor);
     fill(0);
     textSize(60);
