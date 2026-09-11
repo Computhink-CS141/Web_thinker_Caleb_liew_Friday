@@ -1,7 +1,7 @@
 
 let alarmSound;
 let bgcolor;
-let alarm;
+
 function preload(){
     alarmSound =loadSound("assets/bossaNova.mp3");
 
