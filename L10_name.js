@@ -4,6 +4,7 @@ let input;
 let ageinput;
 let colorpicker;
 let rectcolor;
+let textcolor;
 function setup(){
     createCanvas(400,600);
     textAlign(CENTER,CENTER);
