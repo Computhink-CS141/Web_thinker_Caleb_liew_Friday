@@ -7,7 +7,7 @@ function setup(){
 
 }function draw(){
     background(220);
-    FileList(0);
+    fill(0);
     textSize(60);
     text(countdown,200,200);
 
