@@ -1,7 +1,7 @@
 
 function setup(){
     createCamvas(400,400)
-
+    background(220)
 
 }
 
