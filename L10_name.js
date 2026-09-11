@@ -13,7 +13,7 @@ function setup(){
     
     ageinput= createInput("");
     ageinput.position(width/2,330);
-    ageinput.input(updateText);
+    ageinput.input(updateageText);
 }
 
 function draw(){
