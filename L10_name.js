@@ -19,7 +19,7 @@ function setup(){
 
 function draw(){
     background(colorpicker.value());
-    rect(40,100,320,200)
+    rect(40,90,320,180)
     textSize(24);
     text(usertext,width/2,height/2);
     
