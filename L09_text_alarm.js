@@ -1,5 +1,6 @@
 
 let alarmSound;
+let bgcolor
 function preload(){
     alarmSound = loadSound("assets/bossaNova.mp3");
 
@@ -13,7 +14,7 @@ function setup(){
 function draw(){
 
 
-    
+
 }
 
 
