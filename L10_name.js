@@ -20,10 +20,10 @@ function draw(){
 
 
 
-let usertext = "ENTER YOUR NAME HERE";
-let agetext = "AGE"
-let input;
-let ageinput;
+// let usertext = "ENTER YOUR NAME HERE";
+// let agetext = "AGE"
+// let input;
+// let ageinput;
 function setup(){
     createCanvas(400,400);
     background(220);
