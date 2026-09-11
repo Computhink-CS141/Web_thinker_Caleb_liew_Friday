@@ -53,8 +53,8 @@ function updateageText(){
 // let ageinput;
 // function setup(){
     // createCanvas(400,400);
-    background(220);
-    textAlign(CENTER,CENTER);
+    // background(220);
+    // textAlign(CENTER,CENTER);
     // input= createInput("");
     // input.position(width/2,300);
     // input.input(updateText);
