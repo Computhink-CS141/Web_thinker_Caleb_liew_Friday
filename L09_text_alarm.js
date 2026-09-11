@@ -4,7 +4,8 @@ function setup(){
     background(220);
     textAlign(200,200);
 }function draw(){
-    
+    background(220);
+    FileList(o)
 
 }
 
