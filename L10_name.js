@@ -6,6 +6,7 @@ function setup(){
 }
 
 function draw(){
-    baaa
+    background(220);
 
+    
 }
