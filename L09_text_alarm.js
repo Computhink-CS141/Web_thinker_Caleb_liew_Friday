@@ -1,11 +1,14 @@
 
 let alarmSound;
 function preload(){
-    alarmSound = loadSound("assets/bossaNova.mp3")
+    alarmSound = loadSound("assets/bossaNova.mp3");
 
 }
 
+function setup(){
 
+    
+}
 
 
 
