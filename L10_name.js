@@ -30,6 +30,7 @@ function setup(){
 function draw(){
     background(colorpicker.value());
     fill(rectcolor.value());
+    noStroke();
     rect(40,90,320,180);
     fill(textcolor.value());
     textSize(24);
