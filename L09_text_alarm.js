@@ -20,11 +20,15 @@ function setup(){
 function mousePressed(){
     countdown=5;
     clearInterval(timer);
-    timer=setInterval()
+    timer=setInterval(timerer);
 
 }
 
+function countdown(){
 
+
+    
+}
 
 
 
