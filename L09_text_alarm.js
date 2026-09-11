@@ -1,39 +1,49 @@
+
+
+
+
+
+
+
+
+
+
 // Task 2
 
-let countdown = 5;
-let timer;
-function setup(){
-    createCanvas(400,400);
-    background(220);
-    textAlign(CENTER);
+// let countdown = 5;
+// let timer;
+// function setup(){
+//     createCanvas(400,400);
+//     background(220);
+//     textAlign(CENTER);
 
-}function draw(){
-    background(220);
-    fill(0);
-    textSize(60);
-    text(countdown,200,200);
+// }function draw(){
+//     background(220);
+//     fill(0);
+//     textSize(60);
+//     text(countdown,200,200);
 
-    textSize(20);
-    text("Click me to start the timer",200,300);
+//     textSize(20);
+//     text("Click me to start the timer",200,300);
 
 
-}
+// }
 
-function mousePressed(){
-    countdown=5;
-    clearInterval(timer);
-    timer=setInterval(countDown,1000);
+// function mousePressed(){
+//     countdown=5;
+//     clearInterval(timer);
+//     timer=setInterval(countDown,1000);
 
-}
+// }
 
-function countDown(){
-    if (countdown> 0 ){
-        countdown--;
+// function countDown(){
+//     if (countdown> 0 ){
+//         countdown--;
     
-    }else{
-        clearInterval(timer);
-    }
-}
+//     }else{
+//         clearInterval(timer);
+//     }
+// }
 
 
 
