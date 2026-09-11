@@ -3,7 +3,7 @@ let timer;
 function setup(){
     createCanvas(400,400);
     background(220);
-    textAlign(200,200);
+    textAlign(CENTER);
 
 }function draw(){
     background(220);
