@@ -1,4 +1,7 @@
-
+let usertext = "ENTER YOUR NAME HERE";
+let agetext = "AGE"
+let input;
+let ageinput;
 let colorpicker;
 function setup(){
     createCanvas(400,400);
