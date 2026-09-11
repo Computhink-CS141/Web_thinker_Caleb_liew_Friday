@@ -1,7 +1,7 @@
 let countdowm = 5;
 let timer;
 function setup(){
-    createCamvas(400,400);
+    createCanvas(400,400);
     background(220);
     textAlign(200,200);
 
