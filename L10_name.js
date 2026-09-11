@@ -7,6 +7,13 @@ function setup(){
     createCanvas(400,400);
     colorpicker = createColorPicker("#8a2727")
     colorpicker.position(300,300);
+    input= createInput("");
+    input.position(width/2,300);
+    input.input(updateText);
+    
+    ageinput= createInput("");
+    ageinput.position(width/2,330);
+    ageinput.input(updateageText);
 }
 
 function draw(){
@@ -28,13 +35,13 @@ function setup(){
     createCanvas(400,400);
     background(220);
     textAlign(CENTER,CENTER);
-    input= createInput("");
-    input.position(width/2,300);
-    input.input(updateText);
+    // input= createInput("");
+    // input.position(width/2,300);
+    // input.input(updateText);
     
-    ageinput= createInput("");
-    ageinput.position(width/2,330);
-    ageinput.input(updateageText);
+    // ageinput= createInput("");
+    // ageinput.position(width/2,330);
+    // ageinput.input(updateageText);
 }
 
 function draw(){
