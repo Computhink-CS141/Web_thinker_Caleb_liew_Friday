@@ -16,6 +16,11 @@ function setup(){
     bgcolor= color(220);
 }
 function draw(){
+    let xsecond=(second(),2);
+    let xminute=(minute(),2);
+    let xhour=()
+    
+    
     background(bgcolor);
     fill(0);
     textSize(60);
