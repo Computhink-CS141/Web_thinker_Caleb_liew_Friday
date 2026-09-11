@@ -5,8 +5,8 @@ function setup(){
     textAlign(200,200);
 }function draw(){
     background(220);
-    FileList(o)
-
+    FileList(0);
+    textSize()
 }
 
 
