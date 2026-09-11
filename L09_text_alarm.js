@@ -39,11 +39,16 @@ function countDown(){
     
     }else{
         clearInterval(timer);
-        alarmTimer = setInterval()
+        alarmTimer = setInterval(alarm,500);
     }
 }
 
+function alarm(){
+    
 
+
+
+}
 
 
 // Task 1----------------------------------------------
