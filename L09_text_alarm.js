@@ -24,9 +24,9 @@ function mousePressed(){
 
 }
 
-function countdown(){
+function countDown(){
     if (countdown> 0 ){
-        
+        countdown()
 
     }
 
