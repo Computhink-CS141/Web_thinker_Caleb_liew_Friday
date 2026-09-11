@@ -40,7 +40,7 @@ function countDown(){
     
     }else{
         clearInterval(timer);
-        alarmTimer = setInterval(alarm,500);
+        alarmTimer = setInterval(alarm,6000);
     }
 }
 
