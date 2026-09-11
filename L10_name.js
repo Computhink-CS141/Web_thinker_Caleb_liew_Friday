@@ -30,8 +30,8 @@ function setup(){
 function draw(){
     background(colorpicker.value());
     fill(rectcolor.value());
-    rect(40,90,320,180)
-    fill(textcolor.value)
+    rect(40,90,320,180);
+    fill(textcolor.value());
     textSize(24);
     text(usertext,width/2,150);
     
