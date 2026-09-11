@@ -1,6 +1,7 @@
 
 let alarmSound;
 let bgcolor
+
 function preload(){
     alarmSound =loadSound("assets/bossaNova.mp3");
 
@@ -45,7 +46,7 @@ function countDown(){
 
 function alarm(){
     bgcolor = color(random(255),random(255),random(255)); 
-    alarmSound.loop;
+    alarmSound.loop();
 
 
 }
