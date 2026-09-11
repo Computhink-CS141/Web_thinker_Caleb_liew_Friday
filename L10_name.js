@@ -28,6 +28,6 @@ function draw(){
 }
 function updateText(){
     usertext = this.value();
-    agetext=this.value()
+    
 
 }
