@@ -20,7 +20,8 @@ function draw(){
     fill(0);
     textSize(24);
     text(usertext,width/2,height/2);
-
+    textSize(24);
+    text(usertext,width/2,height/2);
     textSize(14);
     text("Enter name here:",140,312)
 
