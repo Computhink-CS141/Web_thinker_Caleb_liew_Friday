@@ -51,8 +51,8 @@ function updateageText(){
 // let agetext = "AGE"
 // let input;
 // let ageinput;
-function setup(){
-    createCanvas(400,400);
+// function setup(){
+    // createCanvas(400,400);
     background(220);
     textAlign(CENTER,CENTER);
     // input= createInput("");
@@ -62,11 +62,11 @@ function setup(){
     // ageinput= createInput("");
     // ageinput.position(width/2,330);
     // ageinput.input(updateageText);
-}
+// }
 
 // function draw(){
     // background(220);
-    fill(0);
+    // fill(0);
 //     textSize(24);
 //     text(usertext,width/2,height/2);
     
