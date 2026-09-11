@@ -1,7 +1,7 @@
 
 let alarmSound;
 function preload(){
-    alarmSound = loadSound("assets")
+    alarmSound = loadSound("assets/")
 
 }
 
