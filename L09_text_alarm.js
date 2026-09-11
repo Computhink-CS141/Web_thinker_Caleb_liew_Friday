@@ -20,7 +20,7 @@ function draw(){
     let xminute=(minute(),2);
     let xhour=(hour(),2);
     let timestring=(xhour+":"+xminute+":"+xsecond);
-    text()
+    text(timestring,100,100)
     background(bgcolor);
     fill(0);
     textSize(60);
