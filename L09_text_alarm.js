@@ -1,4 +1,5 @@
 let countdowm = 5;
+let timer;
 function setup(){
     createCamvas(400,400);
     background(220);
@@ -19,7 +20,7 @@ function setup(){
 function mousePressed(){
 
 
-    
+
 }
 
 
