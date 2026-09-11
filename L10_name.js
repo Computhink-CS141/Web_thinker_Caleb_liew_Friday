@@ -8,7 +8,7 @@ function setup(){
 
 function draw(){
     background(colorpicker.value());
-
+    rect(100,100)
 
 }
 
