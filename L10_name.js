@@ -10,6 +10,9 @@ function setup(){
     input= createInput("");
     input.position(width/2,300);
     input.input(updateText);
+    input= createInput("");
+    input.position(width/2,300);
+    input.input(updateText);
 }
 
 function draw(){
