@@ -8,9 +8,9 @@ function setup(){
     background(220);
     FileList(0);
     textSize(60);
-    text()
+    text(countdown,200,200);
 
-
+    textSize(200);
 
 
 }
