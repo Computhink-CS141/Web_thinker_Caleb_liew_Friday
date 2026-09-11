@@ -5,7 +5,7 @@ let ageinput;
 let colorpicker;
 function setup(){
     createCanvas(400,400);
-    textalign
+    textalign(CENTER,CENTER)
     colorpicker = createColorPicker("#8a2727")
     colorpicker.position(300,300);
     input= createInput("");
