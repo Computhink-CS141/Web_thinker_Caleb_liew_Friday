@@ -18,8 +18,8 @@ function setup(){
 function draw(){
     let xsecond=(second(),2);
     let xminute=(minute(),2);
-    let xhour=()
-    
+    let xhour=(hour(),2);
+    let 
     
     background(bgcolor);
     fill(0);
