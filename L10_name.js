@@ -3,11 +3,11 @@ let colorpicker;
 function setup(){
     createCanvas(400,400);
     colorpicker = createColorPicker("#8a2727")
-    colorpicker.postion(300,300);
+    colorpicker.position(300,300);
 }
 
 function draw(){
-    background(colorPicker.value());
+    background(colorpicker.value());
 
 
 }
