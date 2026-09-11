@@ -6,7 +6,8 @@ function setup(){
 }function draw(){
     background(220);
     FileList(0);
-    textSize()
+    textSize(60);
+    te
 }
 
 
