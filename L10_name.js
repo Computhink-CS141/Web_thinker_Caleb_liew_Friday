@@ -46,6 +46,12 @@ function draw(){
 
     textSize(14);
     text("Background color:",143,375)
+
+    textSize(14);
+    text("Background color:",143,375)
+
+    textSize(14);
+    text("Background color:",143,375)
 }
 function updateText(){
     usertext = this.value();
