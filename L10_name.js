@@ -29,7 +29,7 @@ function draw(){
     text("Enter name here:",140,312)
 
     textSize(14);
-    text("Enter age here:",140,336)
+    text("Enter age here:",140,342)
 }
 function updateText(){
     usertext = this.value();
