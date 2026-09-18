@@ -14,6 +14,6 @@ function setup(){
 
 function draw(){
     background("skyblue");
-    text()
+    text(textbox);
 
 }
