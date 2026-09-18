@@ -12,7 +12,7 @@ let story;
 function setup(){
     createCanvas(600,600);
     background(220);
-    textAlign(CENTER,CENTER);
+    textAlign(RIGHT,CENTER);
 
     noun = createInput();
     noun.position(width/2+50,50);
@@ -36,7 +36,7 @@ function setup(){
 
 function draw(){
     background(220);
-
+    
 
 
 
