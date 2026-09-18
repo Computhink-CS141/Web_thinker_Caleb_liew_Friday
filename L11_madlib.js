@@ -19,6 +19,6 @@ function draw(){
 
 }
 
-function updatetext(){
+function changedText(){
     textbox = textInput.value();
 }
