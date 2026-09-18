@@ -11,7 +11,7 @@ let place;
 let story;
 
 let storytext="";
-letsrotytemplates;
+let storytemplates;
 function setup(){
     createCanvas(600,600);
     background(220);
