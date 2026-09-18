@@ -10,8 +10,8 @@ let place;
 
 let story;
 
-let storytext=""
-letsroty
+let storytext="";
+letsrotytemplates;
 function setup(){
     createCanvas(600,600);
     background(220);
