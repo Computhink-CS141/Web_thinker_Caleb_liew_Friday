@@ -6,9 +6,9 @@ let adjective;
 
 let adverb;
 
-let noun;
+let place;
 
-let noun;
+
 function setup(){
     createCanvas(600,600);
     background(220);
