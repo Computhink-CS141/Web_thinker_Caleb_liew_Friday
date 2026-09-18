@@ -1,6 +1,6 @@
-let noun;
+let noun, nounbutton;
 
-let verb;
+let verb, v;
 
 let adjective;
 
