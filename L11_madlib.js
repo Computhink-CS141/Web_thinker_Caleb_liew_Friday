@@ -27,10 +27,10 @@ function setup(){
     adverb.position(width/2+20,100);
 
     place = createInput("e.g.a dog");
-    place.position(width/2+150,125);
+    place.position(width/2+20,125);
     
     story = createButton("Generate Story");
-    story.position(width/2+50,200);
+    story.position(width/2+20,150);
     story.mousePressed(updatetext);
 }
 
