@@ -9,7 +9,7 @@ function setup(){
 
     colorbox = createColorPicker("#000")
     colorbox.position(100,100);
-    colorbox.input(updateText)
+    colorbox.input(updateText);
 }
 
 function draw(){
