@@ -37,14 +37,14 @@ function setup(){
 function draw(){
     background(220);
     textSize(18);
-    
+
 
 
 }
 
 function updatetext(){
     story = updatetext.input;
-    
+    console.log(noun)
 
 }
 
