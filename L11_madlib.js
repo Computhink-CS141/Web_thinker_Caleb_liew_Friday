@@ -52,7 +52,7 @@ function updatetext(){
     print(verb.value());
     print(adjective.value());
     print(adverb.value());
-    print(noun.value());
+    print(place.value());
 
 }
 
