@@ -38,7 +38,8 @@ function setup(){
 
     storytemplates = [
         "The {adj} {noun} decided to {verb} {adv} at the {place}.",
-        "One day, a {adj} {noun} wanted to {verb} {adv} in {place}."
+        "One day, a {adj} {noun} wanted to {verb} {adv} in {place}.",
+        "The {adj} {noun} decided to {verb} {adv} at the {place}?"
     ]
 
 }
