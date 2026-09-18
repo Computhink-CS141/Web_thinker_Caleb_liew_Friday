@@ -9,7 +9,8 @@ let adverb;
 let place;
 
 let story;
-let mystory
+
+let mystory;
 let storytext="";
 let storytemplates;
 function setup(){
