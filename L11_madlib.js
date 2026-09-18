@@ -4,7 +4,7 @@ function setup(){
     background("skyblue");
     textAlign(CENTER,CENTER);
     textbox=createInput("");
-    textbox.position(200,50)
+    textbox.position(100,50)
 
 }
 
