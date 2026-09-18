@@ -17,11 +17,14 @@ function setup(){
     noun = createInput();
     noun.position(width/2-50,50);
     
-    verb = c
+        noun = createInput();
+    noun.position(width/2-50,50);
 
+    noun = createInput();
+    noun.position(width/2-50,50);
 
-
-
+    noun = createInput();
+    noun.position(width/2-50,50);
     story = createButton("Generate Story");
 
 }
