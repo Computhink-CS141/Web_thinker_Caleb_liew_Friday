@@ -55,7 +55,7 @@ function draw(){
     text("Enter a adjective",width/2,84);
     text("Enter a adverb",width/2,109);
     text("Enter a place",width/2,134);
-    text()
+    text(storytext,300,300)
 }
 
 function updatetext(){
