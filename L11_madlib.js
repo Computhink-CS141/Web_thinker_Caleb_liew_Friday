@@ -7,7 +7,7 @@ function setup(){
     textbox.position(100,50)
     textbox.input(updateText);
 
-    
+    colorbox = createColorPicker("#000")
 
 }
 
