@@ -37,8 +37,8 @@ function setup(){
 function draw(){
     background(220);
     textSize(18);
-    text("Enter a noun",width/2,)
-
+    text("Enter a noun",width/2,25);
+    text("Enter a noun",width/2,25);
 
 }
 
