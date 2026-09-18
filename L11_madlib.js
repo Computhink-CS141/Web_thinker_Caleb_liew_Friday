@@ -10,7 +10,6 @@ let place;
 
 let story;
 
-let mystory;
 let storytext="";
 let storytemplates;
 function setup(){
