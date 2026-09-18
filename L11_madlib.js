@@ -16,7 +16,7 @@ function setup(){
 function draw(){
     background("skyblue");
     fill(colorbox.value());
-    text(textbox,50,120);
+    text(up,50,120);
     
 }
 
