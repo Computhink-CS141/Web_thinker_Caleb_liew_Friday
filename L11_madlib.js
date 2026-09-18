@@ -49,6 +49,10 @@ function draw(){
 function updatetext(){
     story = updatetext.input;
     print(noun.value());
+    print(verb.value());
+    print(noun.value());
+    print(noun.value());
+    print(noun.value());
 
 }
 
