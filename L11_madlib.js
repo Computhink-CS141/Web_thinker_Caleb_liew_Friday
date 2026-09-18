@@ -42,9 +42,9 @@ function setup(){
         "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}?"
     ]
     let template = random(storytemplates);
-    storytext = template.replace("{noun}", "noun.value()")
-                        .replace("{verb}", "verb.value()")
-                        .replace("{noun}", "noun.value()")
+    storytext = template.replace("{noun}", noun.value())
+                        .replace("{verb}", verb.value())
+                        .replace("{adj}", adjective.value())
                         .replace("{noun}", "noun.value()")
                         .replace("{noun}", "noun.value()")
 
