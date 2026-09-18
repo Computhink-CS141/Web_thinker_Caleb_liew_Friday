@@ -2,11 +2,11 @@ let noun, nounbutton;
 
 let verb, verbbutton;
 
-let adjective, adjbutton;
+let adjective;
 
-let adverb, advbutton;
+let adverb;
 
-let place, placebutton;
+let place;
 
 
 function setup(){
