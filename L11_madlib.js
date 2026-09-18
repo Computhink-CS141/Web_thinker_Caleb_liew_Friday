@@ -23,7 +23,7 @@ function setup(){
     adjective = createInput("e.g.happy");
     adjective.position(width/2+20,75);
 
-    adverb = createInput("e.g.a dog");
+    adverb = createInput("e.g.angrily");
     adverb.position(width/2+20,100);
 
     place = createInput("e.g.a dog");
