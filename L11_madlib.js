@@ -68,12 +68,13 @@ function updatetext(){
     // print(place.value());
     print(storytext);
     let template = random(storytemplates);
-    storytext = template.replace("{noun}", noun.value())
+    template = template.replace("{noun}", noun.value())
                         .replace("{verb}", verb.value())
                         .replace("{adj}", adjective.value())
                         .replace("{adv}", adverb.value())
                         .replace("{place}", place.value())
-}
+
+                    }
 
 // let textbox,colorbox;
 // let updatetext;
