@@ -15,7 +15,7 @@ function setup(){
     textAlign(CENTER,CENTER);
 
     noun = createInput();
-    noun.position(width/2-50,50);
+    noun.position(width/2+50,50);
     
     verb = createInput();
     verb.position(width/2+50,100);
@@ -27,7 +27,7 @@ function setup(){
     adverb.position(width/2+50,200);
 
     place = createInput();
-    place.position(width/2-50,50);
+    place.position(width/2+50,250);
     
     story = createButton("Generate Story");
 
