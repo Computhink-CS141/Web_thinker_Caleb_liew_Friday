@@ -33,7 +33,13 @@ function setup(){
 
 }
 
+function draw(){
 
+
+
+
+    
+}
 
 
 // let textbox,colorbox;
