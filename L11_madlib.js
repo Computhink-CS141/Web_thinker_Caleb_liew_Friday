@@ -18,3 +18,5 @@ function draw(){
     text(textbox);
 
 }
+
+function updatetext()
