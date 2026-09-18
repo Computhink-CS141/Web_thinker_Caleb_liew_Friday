@@ -20,5 +20,5 @@ function draw(){
 }
 
 function changedText(){
-    textbox = textInput.value();
+    textbox = textboput.value();
 }
