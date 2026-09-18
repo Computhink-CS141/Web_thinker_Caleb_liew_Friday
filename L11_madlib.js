@@ -45,8 +45,8 @@ function setup(){
     storytext = template.replace("{noun}", noun.value())
                         .replace("{verb}", verb.value())
                         .replace("{adj}", adjective.value())
-                        .replace("{noun}", adverb.value())
-                        .replace("{noun}", "noun.value()")
+                        .replace("{adv}", adverb.value())
+                        .replace("{place}", place.value()")
 
 }
 
