@@ -30,17 +30,23 @@ function setup(){
     place.position(width/2+50,250);
     
     story = createButton("Generate Story");
-
+    story.position(width/2+50,300);
+    story.mousePressed(updatetext);
 }
 
 function draw(){
+    background(220);
 
 
+
+
+}
+
+function updatetext(){
 
 
     
 }
-
 
 // let textbox,colorbox;
 // let updatetext;
