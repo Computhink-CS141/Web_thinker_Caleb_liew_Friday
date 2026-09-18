@@ -14,10 +14,10 @@ function setup(){
     background(220);
     textAlign(RIGHT,CENTER);
 
-    noun = createInput("e.g.ador");
+    noun = createInput("e.g.a dog");
     noun.position(width/2+50,25);
     
-    verb = createInput();
+    verb = createInput("e.g.a dog");
     verb.position(width/2+50,50);
 
     adjective = createInput();
