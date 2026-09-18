@@ -12,10 +12,11 @@ let place, placebutton;
 function setup(){
     createCanvas(600,600);
     background(220);
+    textAlign(CENTER,CENTER);
 
     noun = createInput();
-    noun.position(width/2,50)
-
+    noun.position(width/2,50);
+    noun
 
 
 }
