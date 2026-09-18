@@ -14,7 +14,7 @@ function setup(){
     background(220);
     textAlign(RIGHT,CENTER);
 
-    noun = createInput();
+    noun = createInput("e.g.ador");
     noun.position(width/2+50,25);
     
     verb = createInput();
