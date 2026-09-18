@@ -67,7 +67,7 @@ function updatetext(){
     // print(adverb.value());
     // print(place.value());
     print(storytext);
-    print()
+    // print()
     let template = random(storytemplates);
     template = template.replace("{noun}", noun.value())
                         .replace("{verb}", verb.value())
