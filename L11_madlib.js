@@ -35,6 +35,11 @@ function setup(){
     story = createButton("Generate Story");
     story.position(width/2+20,150);
     story.mousePressed(updatetext);
+
+    storytemplates = [
+        
+    ]
+
 }
 
 function draw(){
