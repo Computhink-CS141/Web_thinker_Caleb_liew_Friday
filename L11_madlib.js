@@ -1,8 +1,8 @@
 let noun, nounbutton;
 
-let verb, v;
+let verb, verbbutton;
 
-let adjective;
+let adjective, adj;
 
 let adverb;
 
