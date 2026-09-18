@@ -48,7 +48,7 @@ function draw(){
 
 function updatetext(){
     story = updatetext.input;
-    print(noun.Input());
+    print(noun.Value());
 
 }
 
