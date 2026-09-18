@@ -41,12 +41,7 @@ function setup(){
         "One day, a {adj} {noun} wanted to {verb} {adv} in {place}.",
         "Did you hear about the {adj} {noun} that tried to {verb} {adv} near {place}?"
     ]
-    let template = random(storytemplates);
-    storytext = template.replace("{noun}", noun.value())
-                        .replace("{verb}", verb.value())
-                        .replace("{adj}", adjective.value())
-                        .replace("{adv}", adverb.value())
-                        .replace("{place}", place.value())
+    
 
 }
 
@@ -70,7 +65,12 @@ function updatetext(){
     // print(adverb.value());
     // print(place.value());
     print(storytext);
-
+    let template = random(storytemplates);
+    storytext = template.replace("{noun}", noun.value())
+                        .replace("{verb}", verb.value())
+                        .replace("{adj}", adjective.value())
+                        .replace("{adv}", adverb.value())
+                        .replace("{place}", place.value())
 }
 
 // let textbox,colorbox;
