@@ -20,13 +20,13 @@ function setup(){
     verb = createInput("e.g.a dog");
     verb.position(width/2+50,50);
 
-    adjective = createInput();
+    adjective = createInput("e.g.a dog");
     adjective.position(width/2+75,150);
 
-    adverb = createInput();
+    adverb = createInput("e.g.a dog");
     adverb.position(width/2+100,200);
 
-    place = createInput();
+    place = createInput("e.g.a dog");
     place.position(width/2+150,250);
     
     story = createButton("Generate Story");
