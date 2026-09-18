@@ -15,10 +15,10 @@ function setup(){
     textAlign(RIGHT,CENTER);
 
     noun = createInput();
-    noun.position(width/2+50,50);
+    noun.position(width/2+50,25);
     
     verb = createInput();
-    verb.position(width/2+50,100);
+    verb.position(width/2+50,50);
 
     adjective = createInput();
     adjective.position(width/2+50,150);
