@@ -6,7 +6,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     textbox=createInput("");
     textbox.position(100,50)
-    textbox.input(updatetext);
+    textbox.input(changedText);
 
     colorbox = createColorPicker("#000")
     colorbox.position(100,100);
