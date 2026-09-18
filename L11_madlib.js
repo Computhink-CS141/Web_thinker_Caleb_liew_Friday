@@ -14,7 +14,7 @@ function setup(){
     background(220);
 
     noun = createInput();
-    noun.position(width/2,)
+    noun.position(width/2,50)
 
 
 
