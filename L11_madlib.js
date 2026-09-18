@@ -1,6 +1,14 @@
 let noun;
 
+let verb;
 
+let noun;
+
+let noun;
+
+let noun;
+
+let noun;
 function setup(){
     createCanvas(600,600);
     background(220);
