@@ -36,7 +36,9 @@ function setup(){
 
 function draw(){
     background(220);
+    textAlign(RIGHT,CENTER);
     textSize(18);
+
     text("Enter a noun",width/2,25);
     text("Enter a verb",width/2,50);
     text("Enter a adjective",width/2,75);
