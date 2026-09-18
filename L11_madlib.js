@@ -21,7 +21,7 @@ function setup(){
     verb.position(width/2+50,50);
 
     adjective = createInput("e.g.a dog");
-    adjective.position(width/2+75,150);
+    adjective.position(width/2+75,100);
 
     adverb = createInput("e.g.a dog");
     adverb.position(width/2+100,200);
