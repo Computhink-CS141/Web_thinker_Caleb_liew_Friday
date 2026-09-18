@@ -2,9 +2,9 @@ let textbox,colorbox
 function setup(){
     createCanvas(400,200);
     background("skyblue");
-    textAlign(CENTER,CENTER)
+    textAlign(CENTER,CENTER);
     textbox=createInput("");
-    textbox.position(50,100)
+    textbox.position(200,50)
 
 }
 
