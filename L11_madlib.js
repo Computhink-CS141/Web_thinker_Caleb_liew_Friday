@@ -26,7 +26,7 @@ function setup(){
     adverb = createInput("e.g.angrily");
     adverb.position(width/2+20,100);
 
-    place = createInput("e.g.a dog");
+    place = createInput("e.g.Ank Mo Kio");
     place.position(width/2+20,125);
     
     story = createButton("Generate Story");
