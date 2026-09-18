@@ -1,8 +1,8 @@
-let textBox,colorbox
+let textbox,colorbox
 function setup(){
     createCanvas(200,200);
     background("skyblue");
-
+    
 }
 
 function draw(){
