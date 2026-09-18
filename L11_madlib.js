@@ -14,7 +14,7 @@ function setup(){
     background(220);
 
     noun = createInput();
-
+    noun
 
 
 
