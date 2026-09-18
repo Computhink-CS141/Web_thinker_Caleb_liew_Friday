@@ -15,13 +15,13 @@ function setup(){
     textAlign(RIGHT,CENTER);
 
     noun = createInput("e.g.a dog");
-    noun.position(width/2+50,25);
+    noun.position(width/2+20,25);
     
     verb = createInput("e.g.a dog");
-    verb.position(width/2+50,50);
+    verb.position(width/2+20,50);
 
     adjective = createInput("e.g.a dog");
-    adjective.position(width/2+50,100);
+    adjective.position(width/2+20,75);
 
     adverb = createInput("e.g.a dog");
     adverb.position(width/2+20,150);
