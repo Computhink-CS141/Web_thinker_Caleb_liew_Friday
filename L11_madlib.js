@@ -44,7 +44,7 @@ function draw(){
 
 function updatetext(){
     story = updatetext.input;
-    print(noun)
+    print(noun);
 
 }
 
