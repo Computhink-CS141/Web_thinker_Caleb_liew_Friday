@@ -2,9 +2,9 @@ let noun, nounbutton;
 
 let verb, verbbutton;
 
-let adjective, adj;
+let adjective, adjbutton;
 
-let adverb;
+let adverb, advbutton;
 
 let place;
 
