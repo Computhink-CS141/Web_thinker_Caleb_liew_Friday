@@ -20,8 +20,8 @@ function setup(){
     verb = createInput();
     verb.position(width/2-50,50);
 
-    noun = createInput();
-    noun.position(width/2-50,50);
+    adjective = createInput();
+    adjective.position(width/2-50,50);
 
     noun = createInput();
     noun.position(width/2-50,50);
