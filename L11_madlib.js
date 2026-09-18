@@ -73,6 +73,7 @@ function updatetext(){
                         .replace("{adj}", adjective.value())
                         .replace("{adv}", adverb.value())
                         .replace("{place}", place.value())
+
                     }
 
 // let textbox,colorbox;
