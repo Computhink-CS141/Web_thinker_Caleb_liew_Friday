@@ -6,7 +6,7 @@ let adjective, adjbutton;
 
 let adverb, advbutton;
 
-let place;
+let place, placebutton;
 
 
 function setup(){
