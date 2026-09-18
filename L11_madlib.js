@@ -2,9 +2,9 @@ let noun;
 
 let verb;
 
-let noun;
+let adjective;
 
-let noun;
+let adverb;
 
 let noun;
 
