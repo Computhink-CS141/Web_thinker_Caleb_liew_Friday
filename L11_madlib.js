@@ -69,6 +69,7 @@ function updatetext(){
     print(adjective.value());
     print(adverb.value());
     print(place.value());
+    print(storytext);
 
 }
 
