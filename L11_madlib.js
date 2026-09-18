@@ -64,11 +64,11 @@ function draw(){
 
 function updatetext(){
     story = updatetext.input;
-    print(noun.value());
-    print(verb.value());
-    print(adjective.value());
-    print(adverb.value());
-    print(place.value());
+    // print(noun.value());
+    // print(verb.value());
+    // print(adjective.value());
+    // print(adverb.value());
+    // print(place.value());
     print(storytext);
 
 }
