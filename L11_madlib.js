@@ -8,7 +8,7 @@ function setup(){
     textbox.input(updateText);
 
     colorbox = createColorPicker("#000")
-    colorbox.poition
+    colorbox.position(100,100);
 
 }
 
