@@ -5,6 +5,7 @@ function setup(){
     textAlign(CENTER,CENTER);
     textbox=createInput("");
     textbox.position(100,50)
+    textbox.input(updateText)
 
 }
 
