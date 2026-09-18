@@ -37,7 +37,7 @@ function setup(){
     story.mousePressed(updatetext);
 
     storytemplates = [
-        "The {adj} {noun} "
+        "The {adj} {noun} decided to {verb} "
     ]
 
 }
