@@ -43,7 +43,10 @@ function setup(){
     ]
     let template = random(storytemplates);
     storytext = template.replace("{noun}", "noun.value()")
-    
+                        .replace("{noun}", "noun.value()")
+                        .replace("{noun}", "noun.value()")
+                        .replace("{noun}", "noun.value()")
+                        .replace("{noun}", "noun.value()")
 
 }
 
