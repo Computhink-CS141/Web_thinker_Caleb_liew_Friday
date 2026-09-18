@@ -39,7 +39,9 @@ function draw(){
     textSize(18);
     text("Enter a noun",width/2,25);
     text("Enter a noun",width/2,25);
-
+    text("Enter a noun",width/2,25);
+    text("Enter a noun",width/2,25);
+    text("Enter a place",width/2,25);
 }
 
 function updatetext(){
