@@ -30,7 +30,7 @@ function setup(){
     place.position(width/2+150,250);
     
     story = createButton("Generate Story");
-    story.position(width/2+50,300);
+    story.position(width/2+50,200);
     story.mousePressed(updatetext);
 }
 
