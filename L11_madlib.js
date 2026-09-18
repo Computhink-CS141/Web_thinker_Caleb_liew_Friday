@@ -1,4 +1,5 @@
-let textbox,colorbox
+let textbox,colorbox;
+let updatetext
 function setup(){
     createCanvas(400,200);
     background("skyblue");
