@@ -43,9 +43,9 @@ function draw(){
 }
 
 function updatetext(){
-
-
     
+
+
 }
 
 // let textbox,colorbox;
