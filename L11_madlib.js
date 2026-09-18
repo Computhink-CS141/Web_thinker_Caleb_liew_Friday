@@ -19,4 +19,6 @@ function draw(){
 
 }
 
-function updatetext()
+function updatetext(){
+    
+}
