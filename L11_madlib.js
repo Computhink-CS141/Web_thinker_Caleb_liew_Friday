@@ -3,7 +3,7 @@ function setup(){
     createCanvas(200,200);
     background("skyblue");
     textbox=createInput("");
-    textbox.postion()
+    textbox.postion(50,100)
 
 }
 
