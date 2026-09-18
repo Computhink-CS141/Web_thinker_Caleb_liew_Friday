@@ -73,7 +73,7 @@ function updatetext(){
                         .replace("{adj}", adjective.value())
                         .replace("{adv}", adverb.value())
                         .replace("{place}", place.value())
-
+storytext = template;
                     }
 
 // let textbox,colorbox;
