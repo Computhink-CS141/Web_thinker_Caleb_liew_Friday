@@ -50,8 +50,8 @@ function updatetext(){
     story = updatetext.input;
     print(noun.value());
     print(verb.value());
-    print(noun.value());
-    print(noun.value());
+    print(adjective.value());
+    print(adverb.value());
     print(noun.value());
 
 }
