@@ -17,6 +17,11 @@ function setup(){
     noun = createInput();
     noun.position(width/2-50,50);
     
+    verb = c
+
+
+
+
     story = createButton("Generate Story");
 
 }
